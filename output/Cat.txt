@@ -567,3 +567,1679 @@ It’s not just my job, my whole life feels like it’s crashing and no matter w
 
 I just feel hopeless, worthless, stupid and like there’s no point in carrying on tbh
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:16:46 : Instagram muting : bringmeflwrs : https://www.reddit.com/r/dating_advice/comments/1itjqtb/instagram_muting/
+
+I knowwww social media is dumb and no real indication of anyone’s feelings. But I also know everyone has reasons for doing things. So out of curiosity, What have been your reasons for muting someone you like or are dating/ have dated on instagram? Cutting them off so you can move on? Telling them indirectly you’re no longer interested? Trying to get their attention? 
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:16:42 : Thought I'd share some experiences : stonedperson97 : https://www.reddit.com/r/TheMallWorld/comments/1itjqrw/thought_id_share_some_experiences/
+
+I just learned about this sub, and honestly didn't think other people had dreams like this. 
+I have dreams that almost always take place in the same fake town. One of the locations in my fake town is some kind of gigantic mall, with tons of stores, restaurants, and various other attractions. There is a college/dorm building that seems like a giant apartment complex with tons of rooms and open lounge areas. Theres a school that is basically a cross between my real world middleschool and highschool, with tons and tons of classrooms and halls that down actually exist. 
+These dreams never fail to intrigue me, because they always feel so real and vivid, like I'm simply living in a different world when I sleep.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:16:51 : Vet prices in your area? : DrSkipmonkey : https://www.reddit.com/gallery/1itjqvp
+
+I have a marvelous vet but the bills are really high. I see people here posting much lower costs. For example:
+
+In 2020 a neuter cost $300. The last one was $600 in summer. We got a quote for $700 today. 
+
+Euthanasia has been running $250.
+
+Office visits are about $150 without medication.
+
+There is one other exotic vet in town but they’re not as good and cost the same. Our vet works with us to minimize visits, but it’s really been adding up lately.
+
+We’re in Eugene, Oregon. I suspect vet prices are just high here. PNW people are crazy about their pets.
+
+What are you paying?
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:16:49 : There's a lot of internalized misogyny in the 90daysfiance Reddit community : StrategicGlowUp : https://www.reddit.com/r/90dayfianceuncensored/comments/1itjqup/theres_a_lot_of_internalized_misogyny_in_the/
+
+I see a lot of women commenting that Jasmine is too old to be having a child (38 years old) but on the same breath complaining about her not having a baby with Gino (54 years old).
+
+There is growing evidence that advanced paternal age is associated increased susceptibility in children to a range of conditions.
+
+A woman is born with all the eggs she’ll ever have. But a man is constantly making new sperm cells that divide and replicate about every 16 days. By age 20, a man’s sperm cells have gone through about 150 divisions. That number could grow to 800 by the time he is 50.
+
+The more times sperm cells replicate, the more chances there is for a genetic mutation to occur. 
+
+Examples of genetic conditions that have been associated with advanced paternal age include some skeletal dysplasias or dwarfism syndromes. These include achondroplasia, the most common form of dwarfism, and thanatophoric dysplasia. Some types of craniosynostosis syndromes have also been associated with advanced paternal age. These cause the premature fusion of bones in the skull, which affects head shape, and include Crouzon syndrome, Pfeiffer syndrome, and Apert syndrome.
+
+These conditions are caused by genetic variations (or mutations) in specific genes. They are sometimes inherited but can also occur sporadically and unpredictably. One factor correlated with this sporadic genetic variation in some cases is paternal age.
+
+Just because men can have a child at an advanced age doesn't mean they should. If you are going to shame Jasmine for having a baby at 38 years old which is not even that bad, Gino thinking about having a baby at 54 years old, should be the issue here. But I don't see a lot of people talking about it.
+
+Having a baby in your 50s is selfish and inconsiderate. 
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:16:47 : [ANNOUNCEMENT] MegaPatch 3.1 will release in the next 48 hours and will feature a NEW F4L GAMEPLAY via SIDER. : xGondowan : https://www.reddit.com/r/SPFootballLife/comments/1itjqu1/announcement_megapatch_31_will_release_in_the/
+
+After all your feedback, we did an extra step.
+
+As you may know, F4L 4.4 was included in the two previous versions of MegaPatch. All the praise and great reviews got the gameplay to the top of the world for this game... but was it good enough?
+
+Negative feedback was that higher difficulties went to unfair to fairly easy, like deleting all that script was too much, and when you got used to the gameplay it was literally a birthday party.
+
+F4L and I never stopped talking about what to maximize and push the boundaries about this game. He wasn't pleased enough with F4L 4.4 behaviour in FL25 because it wasn't that good as FL24, probably caused by FL25 EXE changes that, as you also may know, can affect the gameplay and also the gameplay differs from original PES 2021 as it is a different version (1.1.0.0 vs 1.7.0.2 latest official PES 2021). That's why all the Holland/Alex/etc gameplays don't fully work as intended here in FL25.
+
+The goal this time was about getting more difficulty overall, but not at the cost of responsiveness, fun and CPU behaviour, as those are the three pillars of any gameplay base in case you want to get a better gameplay out of this game. That's why F4L got pen and paper with all those past values and started experimenting again out of that sadness he got about the F4L 4.4 unconsistent experience. He's playing EA FC 25 and designed pretty good sliders, but he still plays FL25 as he loves it more. We'll call this gameplay F4L REVISED version from now on.
+
+Another of the big issues were that while some part of the F4L gameplay saga worked pretty well with standard tactics, the behaviour was different when Klashman tactics were applied. Stamina drain was one of those (specially on fullbacks/attacking wingers) that led on "breaking" the match after the 75-minute mark, giving too much spaces between and leading to more goals in that time gap.
+
+What F4L REVISED gives is one of the most compact midfields and defenders closing up spaces, like real football. Player positioning was a key factor to see if the gameplay was improved. For example, Cole Palmer with Klashman tactics plays around an AMF with standard lineup and SS when out of possession. With F4L 4.4, you could see Palmer doing runs into the area making him an extra striker very near Nicolas Jackson, creating a big space in the front of the area. With F4L REVISED, Palmer doesn't do that and stays faithfully to the Klashman tactic explained before.
+
+https://preview.redd.it/sywa7007e6ke1.png?width=784&amp;format=png&amp;auto=webp&amp;s=b4b3595acb4437ff69fd53e772b84c6955c7620c
+
+Another case was seeing Amorim's United tactics in action. You know that Ruben uses his wingbacks to be very offensive, specially Dalot/Mazraoui, while keeping a 3 defender line at the back. To get it working properly, they must be "in sync" with the attacking wingers, because if Garnacho/Diallo are making runs to the sides and staying very far between them, it creates big empty spaces and literally no possession at all. With F4L REVISED, the behaviour from both parts have been very much improved, so you can see this. Notice how compact is Chelsea, and how close is the distance between players:
+
+[Garnacho is going to recieve the ball and make a one-touch pass to Dalot. Dalot is making an offensive run.](https://preview.redd.it/272rm06te6ke1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=0e296455395b9fd735eb767728b42461ccf3a94e)
+
+[Dalot recieves and creates a new offensive way with Garnacho running at his side. Notice how Chelsea is still closing up defending lines and not letting Hojlund make a run.](https://preview.redd.it/cgm8bfv0f6ke1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=e60b42c02ae8837b35acd3e452c3e8c139f7b7c7)
+
+  
+Another big point is to keep the stats importance at the top. Everyone wants to see their fast players outrun slower defenders, but also not getting catched up out of nowhere. Let's see another example. Here, Palmer is battling Dalot while Madueke is making an overlapping run, fighting along Leny Yoro. Palmer is going to make a pass to Madueke when he is far enough:
+
+https://preview.redd.it/8m9nmsq3g6ke1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=5bc7311640896bbc239bc5881e5d88b9992d9127
+
+[Madueke outruns Yoro and gets into the area, but De Ligt kept Nicolas Jackson space closed. Nicolas Jackson needs to make a different positional run to get a good pass from Madueke. Notice how CPU helps to defend and close more empty spaces, while the only three choices now are: pass the ball to Nicolas, keep runing or get the ball to Reece James at the side.](https://preview.redd.it/43nt4besf6ke1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=af4d753326354bbc1caea5bc50b6c5a26d01f0f3)
+
+To help with the stamina issue, a Stamina Mod will be included with a 10% boost included by default, as more percentage wasn't realistic at all, CPU wasn't making subs until min 85 and you could get wingers to avoid the red zone. A 10% helps to get those massive stamina drains happen like 4-5 minutes later in the game (around the 77-82 minute mark) instead of getting your players tired at 70 min.
+
+This gameplay is designed on the line of the old F4L gameplays (version 3.X) when F4L only created them via Sider, as the gameplay editor decomps the dt18\_all.cpk file and making exports of that file also led to different gameplays, caused by some corruption of the gameplay editor. You know this game still hides a lot of stuff that we probably will never know, and you can see that a lot of gameplay makers have their own style of editing and they got even into deep hex editing to improve the game in some aspects. Still, the perfect gameplay will never exist so this is just a new experience aligned with the F4L vision of football, which most of you already liked a lot.
+
+  
+And yeah, MP3.1 will be released in the next 48 hours, probably more like Friday as I have to upload the whole thing twice (GoFile and Torrent) and finish some little details over there. You will see the thread as always here and pinned when it gets released. Remember: this is NOT an UPDATE to 3.0, but a new whole AIO with tons of fixes and 99% transfers until 18/02. See you there.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:16:47 : Big Car Dealership Interview : Tayomator : https://www.reddit.com/r/salesdevelopment/comments/1itjqty/big_car_dealership_interview/
+
+I’ve been working in sales for the past 2 years, granted it was at a shoe store. This morning I just got asked to come in for an interview at my local car dealership as a sales associate. I need all the help I can get. I think i’m good at selling stuff, I like to get personally connected with customers and communicate what would be best for them but i’ve never done it on this scale. How should I prep for my interview? What should I implement into my sales tactics? Im very surprised they even called me back about this job since I applied on a whim and they called me 4 hours later asking for an interview! Thank you all for reading this! Please send some help!
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:16:57 : Is royal canin raw? : bbunny1996 : https://www.reddit.com/r/catfood/comments/1itjqyi/is_royal_canin_raw/
+
+ Is this raw? I purchased this today for my cats and I compared it to the digestive care that I typically give them and I noticed this one says chicken by products and the other one does not say that. I looked up with chicken by products means and it looks like it is The bones and such… Does this mean this is raw? Wouldn’t it have to say if it was raw? Does anyone know if this line of royal canin is raw? 
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:16:55 : The market is down, but real memecoins survive : fegadi : https://www.reddit.com/r/SolanaMemeCoins/comments/1itjqxw/the_market_is_down_but_real_memecoins_survive/
+
+
+The market is in rough shape Solana has dropped, and people are saying memecoins are dead. But that’s exactly when real opportunities emerge.
+
+Powsche isn’t just another memecoin. It’s a category-defining token with an actual story, a thriving community, and a strong narrative.
+
+Memecoins that were built purely on hype are collapsing, but Powsche has always been different. This is a project with real culture, real milestones, and a real vision for the future.
+
+When the market is down, smart money positions itself. The biggest gains always come from accumulating before the next wave. When people are scared, that’s when you should be paying attention.
+
+Powsche has already survived multiple market dips and keeps proving its resilience. The roadmap is massive, the community is stronger than ever, and the brand keeps expanding.
+
+If you think memecoins are done, you’re missing the bigger picture. Powsche always wins.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:16:54 : Coffee for cats... Are you in? : Ok_Zombie_8354 : https://i.redd.it/8wpq4h67i6ke1.jpeg
+
+Is this good coffee to support cats? 
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:17:01 : Verifying for Apple Pay - turn off WiFi : SufficientAd3865 : https://www.reddit.com/r/Venturex/comments/1itjr0s/verifying_for_apple_pay_turn_off_wifi/
+
+I just got my Venture X card and  could not get it to verify for Apple Pay. Waited a couple days. Still no luck. Googled and all issues I saw were related to being over seas. Not my issue since I’m in the US. My internet is Starlink. It shows my location as Atlanta even though I’m not near there. Anyways, turning off the WiFi allowed me to verify with no issues. Just sharing so this shows up for others who will struggle after me.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:17:01 : Family Resort : Dry-Consequence-6509 : https://www.reddit.com/r/StPetersburgFL/comments/1itjr0o/family_resort/
+
+Any recommendations for a family friendly resort near St Pete? Two small kids 3 and 5 on the beach. And thoughts on the don cesar with kids? Aiming for late march
+
+Also i know it's not st pete but any of you have been to longboat key or siesta key on vacation with kids would appreciate recommendations and insight as open to those as well. 
+
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:17:00 : 19 [M4F] #online Looking for that special someone? Well me too :) : AdOutrageous5 : https://www.reddit.com/r/r4r/comments/1itjr0a/19_m4f_online_looking_for_that_special_someone/
+
+ Hi, hope your having a great day.
+
+  I am looking for that special someone that also believes in true love in this generation. Looking for something longterm not shorterm. Also want someone with similar interest but i dont really care, because we are all different. I don’t really care how you look physically, would like to know you first them we can talk about how we look. Also lets start as friends and we would later talk if we are one for the other or we can stay as friends. Looking for someone between 18-22. I am currently studying a bachelor degree in computer science or programming. I have a dark humor but I literally laught to anything. I am loyal, I don’t ghost, prefer always being honest and comunicate stuff. Hobbies and things that I like are Anime, Videogames, Watching movies, series, manga, memes. I also speak spanish if your more comfortable with it.
+
+If you DM send the word “Zoro” that way I know you read this. Also send a small introduction about yourself if you want. If your not interested , well have a nice day and wish you luck.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:17:06 : Mohela Payment Scheduled?! : Aekh82 : https://www.reddit.com/r/PSLF/comments/1itjr3e/mohela_payment_scheduled/
+
+Hello All! Today I logged into my Mohela account and had a payment scheduled to be withdrawn on February 24th. I’m on the SAVE plan and have been stuck in this forbearance hold. I did recently submit paperwork to change plans as I sit at 116/120 payments. But that was legit last week and I’ve received zero communication on anything from Mohela. 
+
+Has this happened to anyone else? I’m currently on hold with Mohela with a hold time estimated at 1 hour and 15 minutes. So thought why not ask here. Maybe faster! 
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:17:05 : Baby, 4 months male potential silent reflux : dee30242017 : https://www.reddit.com/r/AskDocs/comments/1itjr2v/baby_4_months_male_potential_silent_reflux/
+
+
+
+I am reaching out for advice regarding my baby’s current health situation, as I am feeling quite confused and frustrated with the lack of clarity from our pediatrician. I want to ensure that I’m doing everything I can to provide the care my little one needs to feel comfortable and healthy.
+
+Two weeks ago, my baby cried for about 20 minutes during a car ride, and the next day, her voice was almost completely gone. We followed the pediatrician’s advice and gave her as much vocal rest as possible, and although her voice has improved over the past two weeks, it still isn’t fully recovered. Our pediatrician has expressed concern that this may be related to silent reflux affecting her vocal cords, though this is something I’ve raised multiple times in the past, only to be told that she would “grow out of it.” 
+
+The pediatrician has referred us to an ENT, but the appointment is not for another month. In the meantime, she has suggested a trial of PPIs for a week to see if it helps with her voice. I’m hesitant about this, particularly given the potential side effects and the fact that we’ve been managing ongoing issues with gas. I’m also unsure whether a week-long PPI trial would yield noticeable results if the issue is not silent reflux but rather vocal strain from crying. My main concern is that if the medication isn't necessary, we could be doing more harm than good.
+
+Here are some symptoms and observations I’ve noticed that might provide more context:
+
+- Since birth, my baby has been grunting and congested, though it has improved somewhat. She still has some congestion upon waking.
+- She dislikes being in the car seat—I'm not sure whether it’s discomfort from pressure on her tummy or just a general dislike of being confined.
+- She coughs a handful of times a day, though there are no signs of fever or illness.
+- Previously, she had hiccups almost daily, but now it's down to about once a week.
+- Her fussiness has increased, though it may be linked to possible teething or the four-month regression and being tired from awful sleep
+- She cries at the breast and pops on and off; I’m unsure whether this is due to gas or just not being hungry. She is also feeding less frequently, going longer stretches between feeds (up to 3/3.5 hours vs. 2 hours). Due to her becoming distracted I feed her when drowsy upon waking up from a nap or dream feed if nap is short 
+- She arches her back while crying when I feed her but it seems to be more from frustration than any sign of discomfort. Shed prefer sleeping than milk. 
+- We do keep her upright for 10 minutes after feeding, and she plays comfortably on her back and doesn't fuss when on her back. Nighttime bassinet sleeping has been a recent issue but that might be more towards the regression
+
+I’m struggling to understand whether these symptoms point more toward silent reflux or if they are simply a normal part of infant behavior. If it is silent reflux, wr didn't meducate or address it from day one since Dr said baby will grow out of it. Have we damaged her internal organs and throat due to this? 
+
+Given all this, I’m wondering if it’s possible to wait for a month to see the ENT before starting the PPI trial, or if that delay could lead to irreversible damage to voice. Ultimately, I just want my baby’s voice to fully recover, but I’m unsure about the best way forward. 
+
+Any guidance or advice on how to proceed would be greatly appreciated.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:17:12 : Hack for Syria Hackathon : Sad_Presentation_872 : https://www.reddit.com/r/Syria/comments/1itjr69/hack_for_syria_hackathon/
+
+Saw this and thought it was pretty cool. Hack for Syria pulled in over 5000 applications in just two weeks. The application deadline has passed since its starting in 3 days, but if you're into tech and/or have good startup projects ideas its definitely worth keeping an eye on. 
+
+If you are interested, want to get involved or have any ideas maybe you can even contact the organizers their names and linkedin are on the website.
+
+[https://hack.startupsyria.org/](https://hack.startupsyria.org/)
+
+[https://www.instagram.com/startupssyria/](https://www.instagram.com/startupssyria/)
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:17:12 : Worst Songs of All Time Bracket : TKalig : https://www.reddit.com/r/MusicRecommendations/comments/1itjr5y/worst_songs_of_all_time_bracket/
+
+Salutations all! I’m looking to do a bracket based competition on the worst songs of all time. I run a small niche community and I’m trying to expand out into other topics. A big focus of the community is art appreciation. Part of what I’m trying to do is get into music reviews with community feedback. So my first review for the channel is the idea of finding the worst songs ever and ranking them. This idea is highly inspired by the YouTube channels Hivemind and BradTasteinMusic. What I’m looking for is the worst of the worst music. Can be as popular or niche as you’d like. More important than the song itself is your justification for why you think it is your worst song ever heard. I want to hear your reasoning for your decision. If two people submit the same song, the reasoning will decide who gets to claim it as their entry. Depending on turnout, I will then enter the top picked songs into a bracket competition. The top four picks will get their selector prizes. Reddit and many subs are particular about giving details on that, so I will be releasing a video giving specifics should turnout be worth it. I hope to hear some of the worst music out there and look forward to your argument as to why! It’s my intent to do this stream as soon as possible assuming turnout isn’t terrible. 
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:17:11 : Available - Manual of Echocardiography 2nd Edition - Authors - Nanda Navin, Karakus Gultekin, Degirmencioglu Aleks - ISBN - 9389587964 9789389587968 9789354657238 : I_Got_It_58 : https://www.reddit.com/r/textbooks_I_got_em/comments/1itjr5x/available_manual_of_echocardiography_2nd_edition/
+
+I have this book available immediately in original publisher pdf form for $7.
+
+https://44fm2x-my.sharepoint.com/:i:/g/personal/yesteryear_depot_44fm2x_onmicrosoft_com/EYC2i-vEeRxAqElS7IuL430B8aRlc3GcaTJnM9iLXfrJPg?e=yCmzBQ
+
+I offer pdf textbooks for $7 for the first book and $3 for each additional book in the same transaction, as long as I have them, so if there are any others, I will do them cheaply if I have them. Upon your agreement that you will pay the $7, I will create a sample that includes the cover up to the first page of chapter 1, and then pages 100, 200, 300, 400, and 500. You can then pay via PayPal, Venmo, Cash App, Wise, Zelle, or debit/credit card. I can also accept BTC.
+
+Upon payment, I will provide you with the book in a permanent Cloud folder.
+
+Just contact me if interested.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:17:11 : Plug In America EV Driver Annual Survey : Plug_In_America : https://www.reddit.com/r/KiaEV6/comments/1itjr5t/plug_in_america_ev_driver_annual_survey/
+
+Hi everyone,
+
+I'm from Plug In America - a national nonprofit organization with a mission to accelerate the transition to affordable and accessible plug-in vehicles and charging through education, advocacy, and research.
+
+We recently launched our [**2025 EV Driver Annual Survey**](https://pluginamerica.org/survey/2025-ev-driver-survey/), and we would like to invite you to take it! Industry leaders and policymakers use this survey to guide their thinking, and our organization uses it to form policy recommendations and consumer messaging. It should take you no more than 15 minutes to fill out, and **we ask that only those of you in the United States** **do so**.
+
+[Last year](https://pluginamerica.org/wp-content/uploads/2024/09/2024-Plug-In-America-EPRI-EV-Driver-Survey-Report_Final.pdf), the EV6 was one of the more popular vehicles among respondents in our survey. Furthermore, it received the second-highest rating of an EV for satisfaction in charging speed. We want to capture even more EV6 drivers this year. Even if you drive a different EV or don't drive an EV at all, we'd still like to hear from you! 
+
+Thank you to anyone who fills it out and to the mods for allowing us to post the survey here.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:17:10 : Large Denim Rowan : StuPedasso23 : https://i.redd.it/bnk2dxz8i6ke1.jpeg
+
+I just got an email notification from Coach that the large denim rowan is back in stock. I was able to place my order. I’m in Canada if that makes a difference but if you were waiting for your chance to grab one you might want to try! 🙂
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:17:08 : I have had a few sessions now and I have one scheduled for tomorrow. : thong_water : https://www.reddit.com/r/EMDR/comments/1itjr4d/i_have_had_a_few_sessions_now_and_i_have_one/
+
+Tw: SA, suicide attempts. 
+'m scared. Not like a deathly fear, but I have been really opening up, and for this past week, I have been having a lot of memories come up that I have to put away. Like, I have these memories that will just loop in my mind, and they're 99% ones that aren't pleasant, ranging from being sexually assaulted, to near death experiences, to childhood trauma. 
+I was opening up to a friend the other day about some of the things, and, it's like I just feel helpless in this. I'm afloat yes, but I have had a lot of trauma in my life. I have also had a lot of concussions throughout my life. I'm medicated currently, which is my biggest support.. as it's a constant and I am able to make it to the "next dose" . Idk what I'm trying to say. Perhaps just to record how I'm feeling about things or to let it out a bit, as it's hard to keep it all trapped inside my mind. 
+Any and all input is appreciated and welcomed. 
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:17:18 : 16TB External Hard Drive 2025: Which One's Best? Top Picks &amp; Reviews! : YongTaylorREYI : https://www.reddit.com/r/External_storage_solu/comments/1itjr8w/16tb_external_hard_drive_2025_which_ones_best_top/
+
+[[Explore Top Rated 16tb external hard drive on Amazon.]](https://storeins.com/external-hard-drive/?kw=16tb external hard drive)
+    
+# 16TB External hard Drive 2025: which One's Best? Top Picks &amp; Reviews!
+
+Running out of storage space? Tired of juggling multiple smaller drives? in 2025, the need for robust and expansive storage solutions is more critical than ever. Whether you're a creative professional, a small business owner, a home user with a vast media libary, or a dedicated gamer, a 16TB external hard drive can be a game-changer. This guide will delve into the world of 16TB external hard drives,helping you navigate the options and find the best drive for your specific needs. We will discuss key considerations, review top picks, and provide actionable insights to ensure you make an informed decision when you buy 16tb external hard drive.
+
+[[Explore Top Rated 16tb external hard drive on Amazon.]](https://storeins.com/external-hard-drive/?kw=16tb external hard drive)
+## Why You Need a 16TB External Hard Drive in 2025
+
+before diving into specific models and features, let's address the essential question: why should you consider a 16TB external hard drive? The answer lies in the increasing size and complexity of the digital world.
+
+*   **For Creative Professionals:** Photographers, videographers, graphic designers, and other visual artists are constantly dealing with massive files. High-resolution photos, 4K and 8K video footage, and complex design projects demand significant storage capacity. A 16TB external hard drive provides ample space for backups, archiving, and working directly with large files. The ability to access these files quickly is crucial, making a fast 16tb external hard drive paramount.
+
+*   **For Small businesses:** Small businesses generate and manage growing volumes of data, from customer records and financial documents to marketing materials and databases. A 16TB external hard drive offers a cost-effective solution for data backup, disaster recovery, and long-term storage. It's an alternative to cloud storage,giving businesses more control over their data and perhaps reducing recurring expenses. finding a reliable 16tb external hard drive is key for business continuity.
+
+*   **For Home Users with Media Libraries:** Streaming services are convenient, but many still prefer owning their digital media.Building a personal library of movies, TV shows, music, and photos can quickly consume available storage. A 16TB external hard drive provides a centralized location for all your media files, making it easy to organize, access, and enjoy your content library. It's also ideal for use with media servers like Plex,allowing you to stream your content to any device in your home.*   **For Gamers:** Modern games are notorious for their large file sizes, often exceeding 100GB each. As game installations grow and save files accumulate, storage space quickly becomes a premium. A 16TB external hard drive offers gamers a solution to expand their storage capacity, allowing them to install more games and keep game recordings without constantly deleting older titles. Eliminating storage bottlenecks can also improve game loading times.
+
+No matter your specific use case, a 16TB external hard drive offers significant advantages in terms of capacity, association, and accessibility.
+
+[[Explore Top Rated 16tb external hard drive on Amazon.]](https://storeins.com/external-hard-drive/?kw=16tb external hard drive)
+## Key Considerations When Choosing a 16TB External Hard Drive
+
+Selecting the right 16TB external hard drive requires careful consideration of several factors. Here's what to keep in mind:
+
+*   **Storage Capacity (Usable):** While you're buying a "16TB" drive, the actual usable capacity will always be slightly less due to formatting and operating system overhead. Expect around 14.5-15TB of usable space. This is normal for all hard drives.*   **Drive Type (HDD vs. SSD):** The vast majority of 16TB external hard drives utilize conventional Hard Disk Drive (HDD) technology. Solid State Drives (SSDs) offer significantly faster performance but are currently much more expensive at this capacity. While 16TB SSD external drives exist, their cost is prohibitive for most users. Thus, this guide focuses primarily on HDD-based 16tb external hard drive.
+
+*   **Interface (USB 3.0 vs. USB-C):** The interface determines the speed at which data can be transferred between the drive and your computer. USB 3.0 is a common standard and offers fast transfer speeds. USB-C is a newer standard that provides even faster transfer speeds and can also be used for power delivery. The best 16tb external hard drive will support either USB 3.0 or USB-C. Look for a 16 tb external hard drive usb c if your computer has a USB-C port, otherwise USB 3.0 is sufficient.
+
+*   **Transfer Speed (RPM and Interface Speed):** For HDDs, the Revolutions Per Minute (RPM) indicates the rotational speed of the platters inside the drive. Higher RPMs generally result in faster transfer speeds. The interface speed (e.g.,5Gbps for USB 3.0, 10Gbps or 20Gbps for USB-C) represents the maximum theoretical data transfer rate. Real-world speeds will be lower, but a faster interface allows the drive to perform at its best.
+
+*   **Reliability and Warranty:** Data loss can be devastating. choose a reputable brand known for producing reliable hard drives. Check the warranty period offered by the manufacturer. A longer warranty indicates greater confidence in the product's durability. Look for a reliable 16tb external hard drive from brands like Western Digital or Seagate.
+
+*   **Power Source:** Most 16TB external hard drives are desktop models and require an external power adapter.Portable 16TB external hard drives are rare and might potentially be more expensive, but they draw power directly from the USB port.*   **Software and Features:** Some manufacturers include backup software, security features, or drive management utilities. Consider whether these features are significant to you. some drives, like those from seagate, offer Rescue Data Recovery Services.
+
+*   **Compatibility:** Ensure the 16tb hard drive compatible with Mac or Windows, depending on your operating system. Most drives are compatible with both, but you may need to reformat the drive for optimal performance on macOS.
+
+*   **Price:** The 16tb external hard drive price can vary significantly depending on the brand, features, and retailer. Compare prices from different sources to find the best deal. Keep an eye out for 16tb external hard drive deals, especially during sales events like Black Friday. The 16tb external hard drive black friday sales are a great time to purchase.
+
+*   **Form Factor (3.5" vs 2.5"):** The external hard drive 16tb 3.5" drives are the most common. The 2.5" drives are usually reserved for smaller capacity drives.
+
+[[Explore Top Rated 16tb external hard drive on Amazon.]](https://storeins.com/external-hard-drive/?kw=16tb external hard drive)
+## Top Picks for 16TB External Hard Drives in 2025
+
+Based on current market trends, expert reviews, and user feedback, here are some of the top contenders for the best 16TB external hard drives in 2025.1.  **Western Digital 16TB Elements Desktop External Hard Drive:**
+
+    *   **Overview:** The Western Digital Elements series is known for its simplicity and affordability. It offers a straightforward, no-frills solution for expanding your storage capacity.
+    *   **Pros:** Budget-pleasant, easy to use, plug-and-play setup, reliable performance.
+    *   **Cons:** Basic features, slower transfer speeds compared to higher-end models, simple design.
+    *   **Ideal For:** users who need a large amount of storage space without breaking the bank. Ideal for basic backup and archiving.
+    *   **Target Audience:** Home users who want a simple and affordable solution for storing media files and backups. Small businesses that need a cost-effective storage solution.
+    *   **Key Features:** USB 3.0 connectivity, plug-and-play compatibility with Windows, can be reformatted for Mac.
+
+2.  **Seagate Expansion Desktop 16TB External Hard Drive:**
+
+    *   **Overview:** The Seagate Expansion series is another popular option, offering a balance of performance, features, and price.
+    *   **Pros:** Affordable, fast transfer speeds, easy to use, includes Rescue Data Recovery Services.
+    *   **Cons:** Basic design, requires external power adapter.
+    *   **Ideal For:** Users who need a good balance of performance and affordability.Suitable for backing up large files, storing media libraries, and general storage needs.
+    *   **Target Audience:** Home users, small businesses, and creative professionals who need a reliable and affordable storage solution.
+    *   **Key Features:** USB 3.0 connectivity, plug-and-play compatibility with Windows, can be reformatted for Mac, includes Seagate's Rescue Data Recovery Services.
+
+3.  **Western Digital 16TB My Book External Hard Drive:**
+
+    *   **Overview:** The My Book series offers added features like password protection and automatic backup software.
+    *   **Pros:** Password protection with hardware encryption, automatic backup software included, stylish design.
+    *   **Cons:** More expensive than the Elements series.
+    *   **Ideal For:** Users who prioritize data security and want a more stylish design.
+    *   **target Audience:** Small businesses, creative professionals, and home users who need to protect sensitive data.
+    *   **Key Features:** USB 3.0 connectivity, password protection with hardware encryption (256-bit AES), automatic backup software, compatible with Windows and Mac.The 16tb my book external hard drive offers added security.
+
+4.  **Seagate One Touch Hub 16TB External Hard Drive:**
+
+    *   **Overview:** This drive not onyl provides massive storage but also acts as a USB hub, offering convenient connectivity for other devices.
+    *   **Pros:** Integrated USB hub, sleek design, includes Rescue Data Recovery Services, password protection.
+    *   **Cons:** more expensive than standard external drives.
+    *   **Ideal For:** Users who need additional USB ports and want a more organized workspace.
+    *   **Target Audience:** Creative professionals, gamers, and home users who need to connect multiple devices.
+    *   **Key features:** USB 3.0 connectivity, two front-facing USB ports, password protection, includes Seagate's Rescue Data Recovery Services, compatible with Windows and Mac.
+
+5. **LaCie 16TB d2 Professional External Hard Drive:**
+
+    *   **Overview:** LaCie is known for its high-quality, rugged drives designed for professional use. While typically more expensive,their reliability and performance justify the cost for demanding users.
+    *   **Pros:** Robust build quality, fast transfer speeds (often utilizing Thunderbolt or USB-C), designed for professional workflows.*   **Cons:** Higher price point.
+    *   **ideal For:** Photographers and videographers who need a durable and reliable drive for on-location work and demanding editing tasks.*   **Target audience:** Creative professionals working with large video files and who need a hard drive for video editing and storage.
+    *   **Key Features:** USB-C connectivity, high transfer speeds, durable all-aluminum enclosure, designed for Mac and Windows.
+
+[[Explore Top Rated 16tb external hard drive on Amazon.]](https://storeins.com/external-hard-drive/?kw=16tb external hard drive)
+## Optimizing Your 16TB External Hard Drive for Performance
+
+Once you've chosen your 16TB external hard drive, there are several steps you can take to optimize its performance:
+
+*   **Use the Correct Interface:** Ensure you're connecting the drive to a USB 3.0 or USB-C port on your computer to achieve the fastest possible transfer speeds. avoid using USB 2.0 ports, as they will significantly limit performance.
+
+*   **Defragment Your drive (Windows):** Over time, files can become fragmented on hdds, slowing down access times. Use the Disk Defragmenter tool in Windows to defragment your drive regularly. This is less important for SSDs.
+
+*   **Format Your Drive Appropriately:** If you're using the drive primarily with macOS, format it using the APFS (Apple File System) for optimal performance. If you're using it with Windows, NTFS is the standard file system.exFAT is a good option for cross-platform compatibility.
+
+*   **Disable Indexing (If Necesary):** Windows and macOS automatically index files on your drives, which can consume system resources. If you're experiencing performance issues, you can disable indexing for your external hard drive. However, this will make searching for files slower.
+
+*   **Keep Your Drive Cool:** Overheating can negatively impact the performance and lifespan of your hard drive. Ensure the drive has adequate ventilation and is not exposed to direct sunlight or excessive heat.
+
+*   **Maintain Free Space:** Ideally, you should keep at least 15-20% of your drive's capacity free to ensure optimal performance.A full drive can become slow and inefficient.
+
+*   **Use a High-Quality USB Cable:** The USB cable connecting the drive to your computer can effect transfer speeds. Use the cable that came with the drive or purchase a high-quality USB cable to ensure a stable and fast connection.
+
+[[Explore Top Rated 16tb external hard drive on Amazon.]](https://storeins.com/external-hard-drive/?kw=16tb external hard drive)
+## Using a 16TB External Drive for Specific Applications
+
+Different applications require different levels of performance and reliability from your 16TB external hard drive. Here's how to optimize your drive for specific use cases:
+
+*   **For Video Editing:** Video editing requires fast transfer speeds and reliable performance. Choose a drive with a high RPM (7200 RPM is ideal) and a USB 3.0 or USB-C interface. Consider a drive designed for professional use, such as the LaCie d2 Professional. The 16tb external drive for video editing should prioritize speed and reliability.
+
+*   **For Plex Media Server:** When using a 16TB external hard drive for Plex, prioritize reliability and capacity. Transfer speeds are less critical, as plex primarily streams content over your local network. A Western Digital Elements or Seagate Expansion drive is a good choice. The 16tb external drive for plex should be reliable and offer sufficient storage.
+
+*   **For Backups:** For backups, reliability is paramount. Choose a reputable brand with a good warranty. Consider using backup software that supports incremental backups, which only copies new or changed files to save time and storage space. The external hard drive 16tb backup is a common use case.
+
+*   **For Gaming:** While an SSD is generally preferred for game installations due to its faster loading times, a 16TB HDD can be used to store less frequently played games or game recordings. To minimize loading times, consider a drive with a high RPM and a USB 3.0 or USB-C connection depending on if your gaming PC has the correct USB connection.[[Explore Top Rated 16tb external hard drive on Amazon.]](https://storeins.com/external-hard-drive/?kw=16tb external hard drive)
+## Where to Buy a 16TB External Hard Drive
+
+Finding the best place to buy 16tb external hard drive can save you money and ensure a smooth shopping experiance. Here are some of the most common retailers for 16TB external hard drives:
+
+*   **Amazon:** Amazon offers a wide selection of 16TB external hard drives from various brands, including Western Digital, Seagate, and LaCie. They often have competitive prices and offer fast shipping. Look at Amazon.com to buy 16tb external hard drive
+
+*   **Best Buy:** best Buy is another popular retailer that carries a variety of 16TB external hard drives. They offer in-store pickup and online ordering options. Visit Best Buy to shop for a 16tb external hard drive.
+
+*   **Newegg:** Newegg specializes in computer hardware and electronics, offering a wide selection of hard drives and other storage devices.
+
+*   **B&amp;H Photo Video:** B&amp;H Photo Video is a reputable retailer for professional audio and video equipment, including high-quality external hard drives.
+
+*   **Manufacturer Websites:** You can also purchase directly from the manufacturer's website, such as western Digital or Seagate. This may offer exclusive deals or promotions.
+
+Remember to compare prices from different retailers before making a purchase to ensure you're getting the best deal.
+
+[[Explore Top Rated 16tb external hard drive on Amazon.]](https://storeins.com/external-hard-drive/?kw=16tb external hard drive)
+## The Future of External Storage
+
+As we look ahead, external storage technology will continue to evolve. While 16TB external hard drives provide ample capacity for current needs, the demand for even larger storage solutions will likely increase in the coming years. SSD prices will continue to fall, meaning 16TB SSDs may become more affordable. Faster interfaces like Thunderbolt 4 and USB4 will enable even faster transfer speeds. Wireless external hard drives may become more prevalent, offering greater convenience and versatility. As technology advances, external storage solutions will continue to play a vital role in managing and protecting our ever-growing digital lives.
+
+[[explore Top Rated 16tb external hard drive on amazon.]](https://storeins.com/external-hard-drive/?kw=16tb external hard drive)
+## Conclusion: choosing the Right 16TB External Hard Drive for You
+
+Selecting the best 16TB external hard drive for your needs requires careful consideration of your specific use case, budget, and priorities. By understanding the key factors discussed in this guide, you can make an informed decision and choose a drive that will provide reliable storage, fast performance, and peace of mind for years to come. Whether you're a creative professional, a small business owner, a home user with a vast media library, or a dedicated gamer, a 16TB external hard drive can be a valuable investment in your digital future. We hope we have answered the question of which one's best for you! Enjoy the benefits of a fast and reliable 16tb external hard drive to fit your needs.
+[[Explore Top Rated 16tb external hard drive on Amazon.]](https://storeins.com/external-hard-drive/?kw=16tb external hard drive)
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:17:17 : Advice on Columbia MPH : Accomplished_Hat8299 : https://www.reddit.com/r/mphadmissions/comments/1itjr8l/advice_on_columbia_mph/
+
+Hi everyone! I need some advice so I got into Columbia's MPH program for a full-time two year in Epi. I'm currently in undergrad at UConn and have already started my MPH there through an accelerated program. I've taken 12 credits at UConn towards my MPH so I would be able to finish up my degree with one additional year after undergrad instead of 2.  I decided to apply out because I'm really interested in topics of public health and UConn doesn't have concentrations or resources to support those interests. Columbia's Epi program and the certificates they have are EXACTLY what I want to pursue which is pushing me towards that, but I am also planning on going to med school after and I'm debating if its worth the extra time and money to get the degree from Columbia. I am from NY and it would be nice to live out my early 20s in the city but I just want to know if people think this is worth the switch.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:17:16 : [REQUEST] Looking for [NSFW] Monster Girl ARTIST to work on a game which will be released to Steam. : charlie_mountain : https://www.reddit.com/r/starvingartists/comments/1itjr83/request_looking_for_nsfw_monster_girl_artist_to/
+
+We're an NSFW game studio looking for an experienced **MONSTER GIRL ARTIST** to work with us to create a 2D visual novel which will ultimately be sold on **Steam**.
+
+[**The Google Form application is here!**](https://forms.gle/34SUZhWAkqvyXumdA)  
+
+
+This position listing will be active from **February 19th, 2025** to **March 7th, 2025**. **After that, the listing will be closed**. We will send a Discord message to those that we believe are the best fit for our studio after the listing is closed. If you don't receive a message that means we will not be moving forward with you.  
+  
+After we've received your application, if we've sent you a message successfully then we will send you a paid test commission request. If you're selected after you deliver your paid test commission, then we will bring you on to our team.
+
+The artist we're looking for will: 
+
+\* Create **2D PSD** files that are **(layered)** which will be utilized by our animators who will then create high quality **NSFW sex animations** with them  
+\* Create original characters that are **human, monster humanoid**, and **furry humanoid**. Must be able to create **female** and **male characters** proficiently\* Create explicit sex scenes with **multiple characters** (MF, MFF, etc.) **which frequently includes a focus on genitalia, breasts, anuses, etc.**  
+\* Draw liquids to include **female wetness, male orgasms, breast milk/lactation, saliva, etc**\* Create **quality** **facial expressions** to be used for static illustrations and for animators to be able to animate dynamic facial expressions  
+**\*** Set up layered illustration to enable animators to focus on **"jiggle" physics** for the **breasts, butts, bellies, tails, monster ears/furry ears, etc.**
+
+We're looking for **art quality** levels similar to what exist in **Snow Daze and Life in Woodchester. You can see examples of the art detail/quality we're looking for in the references here (**[**CLICK HERE**](https://drive.google.com/drive/folders/1OdTwOjQ2IO-TABh1Ie-1IkWjTFl772Ji?usp=sharing) **for references).**
+
+If you would like to see our completed 2D visual novel game you can see it below:
+
+[**Steam Part 1 DEMO Store page with animated trailer**](https://store.steampowered.com/app/1896170/Prince_of_Suburbia__Part_1/) (NSFW)
+
+[**Steam Part 2 DLC Store Page with animated trailer**](https://store.steampowered.com/app/2149280/Prince_of_Suburbia__Part_2/) (NSFW)
+
+Animation quality level that we add to our visual novel games [**RedGIFS animation GIFs**](https://www.redgifs.com/users/vimstudiosvns) (NSFW)
+
+  
+**NOTE:**  
+**If you missed it above, if you're interested, then please follow this link to our** [**Google Form**](https://forms.gle/34SUZhWAkqvyXumdA) **to let us know!!!**
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:17:22 : [POSITIVE] for /u/sunshiner412 [buyer] : MichaelStackson : https://www.reddit.com/r/PMsFeedback/comments/1itjrbc/positive_for_usunshiner412_buyer/
+
+Newer buyer, very easy to work with, prompt communications and payment.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:17:20 : Would it be weird to ask a guy in my class if he’s into the same kink as me? : Mysterious_Echo3299 : https://www.reddit.com/r/askgaybros/comments/1itjrad/would_it_be_weird_to_ask_a_guy_in_my_class_if_hes/
+
+I’m 23 and I’m into scat and there’s a really hot guy in my college class who is 19 and I fantasize about eating his poop
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:17:19 : [POSITIVE] for /u/Hikeer-WV [buyer] : panicmuffin : https://www.reddit.com/r/PMsFeedback/comments/1itjr9h/positive_for_uhikeerwv_buyer/
+
+Great first time buyer. Asked questions, fast communication, and fast payment. Would sell to again no problem!
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:17:26 : Everywhere Belt Bag 1L - Flush Pink - ONE SIZE is in stock at Lululemon for $38.00 (MSRP) : TrackaLackerBot : https://www.reddit.com/r/LululemonRestocks/comments/1itjrd7/everywhere_belt_bag_1l_flush_pink_one_size_is_in/
+
+View current status at [https://www.trackalacker.com/products/showcase/lululemon-everywhere-belt-bag-1l...](https://www.trackalacker.com/products/showcase/lululemon-everywhere-belt-bag-1l?notification_id=%252BaVVVe2GtuRTZP1GO63dhTWe--BsIKpNYjc%252FEswofh--srXP2CoGRwqcFrC%252Bamlpcg%253D%253D&amp;utm_campaign=stock-update&amp;utm_medium=social&amp;utm_source=reddit)
+
+
+
+As of 02/19/25 06:17 PM EST
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:17:25 : What do you find attractive in a partner? : beautifulllstars : https://www.reddit.com/r/ChristianDating/comments/1itjrci/what_do_you_find_attractive_in_a_partner/
+
+What are some offbeat or specific qualities you find attractive in people?
+
+I find myself *extremely* attracted to teachers or men who work in education in some capacity. It shows that they are intelligent, great with kids, have good interpersonal skills, are funny, etc. It signals to me that they would be a great father. As someone who values education and is interested in homeschooling, I think we would be a great match. It just really turns me on, haha.
+
+Second up would be pilots. I don't know why, but I've always had a thing for guys who like airplanes, go into the air force, etc. They tend to be nerdy, have great technical skills, a sense of adventure, remain calm under pressure, etc. Plus, going on a flight sounds like a super cool and romantic date idea. I think a pilot would be a really fun and adventurous husband. :)
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:17:24 : Puzzle Skip Removes Key Items? : MooseOnTheLoos3 : https://www.reddit.com/r/PokemonReborn/comments/1itjrcc/puzzle_skip_removes_key_items/
+
+Hi Folks,
+
+  
+I'm doing another run and just used the puzzle skips for the water treatment facility. I noticed however that after doing so I cannot seem to find the GUM room key or Beryl Grid key. Have any of you experienced the puzzle skips removing key items from the game?
+
+  
+I checked the door for the Fenniken encounter and it is still locked. Kind of rough since this is my catch em all run. I don't mind debugging Fenniken but if this messes with post game quests I'll be bummed.
+
+https://preview.redd.it/zp06ghn6i6ke1.png?width=793&amp;format=png&amp;auto=webp&amp;s=36b3552e772c7deee013a02d5a690a31d92a3d90
+
+https://preview.redd.it/dbs4fvg7i6ke1.png?width=793&amp;format=png&amp;auto=webp&amp;s=b9cb3c8015a7b099d6b36580a4d147c2e572dd99
+
+
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:26:00 : 📢 AtkinsRéalis is hiring a Senior Electrical Engineer! : rrmdp : https://jobboardsearch.com/redirect?utm_source=reddit&amp;utm_medium=bot&amp;utm_id=jobboarsearch&amp;utm_term=echojobs.io&amp;rurl=aHR0cHM6Ly9lY2hvam9icy5pby9qb2IvYXRraW5zci1hbGlzLXNlbmlvci1lbGVjdHJpY2FsLWVuZ2luZWVyLXR1aXl0Lz9yZWY9am9iYm9hcmRzZWFyY2g=
+
+Company: AtkinsRéalis
+
+Location: Ontario 📍
+
+Date Posted: February 19, 2025 📅
+
+Level: Senior 👵
+
+
+
+
+Apply &amp; Description 👉 https://jobboardsearch.com/redirect?utm_source=reddit&amp;utm_medium=bot&amp;utm_id=jobboarsearch&amp;utm_term=echojobs.io&amp;rurl=aHR0cHM6Ly9lY2hvam9icy5pby9qb2IvYXRraW5zci1hbGlzLXNlbmlvci1lbGVjdHJpY2FsLWVuZ2luZWVyLXR1aXl0
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:26:00 : Skin. : cheesestring35 : https://www.reddit.com/r/shortscarystories/comments/1itjycn/skin/
+
+It writhes, twists and claws at its surroundings. The skin. A jumble of contorted bits of tissue cells. It was hollow. Lifeless and full of life at the same time. It wanted a host. Something to cling to. Someone to assist it in its endeavours. 
+
+It scurried along the hospital's floor. Almost running. It saw a nurse. It attacked, suffocating her to death. She wouldn't do. She had her skin. It had spent a year searching for a skinless host. It had killed 4 people on its journey. She was the 5th.
+
+It kept slithering along the white floors. Then it finally came across a treasure trove of possible hosts. The morgue.
+
+After killing its 6th victim, it found what it wanted. A burnt, skinless host. It latched on, feeling happy. However more importantly, it finally felt. It left the hospital, it felt good.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:26:16 : First Time Condo Anxieties : Middle-Unable : https://www.reddit.com/r/PersonalFinanceCanada/comments/1itjykp/first_time_condo_anxieties/
+
+So as the title sort of implies, I just bought my first condo. And I'm incredibly anxious about it.
+
+I'm a 28 year old female who has been living at home since I graduated University in order to save money. This allowed me to save greatly, thanks to my job and parents.
+
+It's a one bedroom, one bathroom condo in Richmond Hill. Top floor, guess you could call it a penthouse but it's only 615sqft so not much to brag about. The building is slightly older, 12 years to be exact. In great shape and the condo management has fantastic reviews. Two lawyers agreed the status certificate looked great and had no concerns. Maintenance fees have been steady and have only raised 35 dollars in 7 years with no expected raises for the next 2 years and no special assessments anytime soon.
+
+Condo is cute. I love it. Floor to ceiling windows the entire one wall. Small, but I am only one girl and a cat so who cares.
+
+But I care... and now, a week after my offer went firm, I'm filled with dread. I can afford it. Finances aren't really my concern. I got the condo for $25,000 under asking... but I still panic that I over paid and I'll never make that money back. For what it's worth, I paid low $500,000's for the condo.
+
+I guess what I'm lamenting at here is... is this normal? To feel this way? I was excited for all of an hour before my stomach turned on me with dread. Now I can't stop obsessively watching the market and seeing what other condo are selling for. 
+
+Any thoughts please. To calm a first time buyer 
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:26:14 : How to keep cat off monstera? : over-weird : https://www.reddit.com/r/CatAdvice/comments/1itjyjv/how_to_keep_cat_off_monstera/
+
+I have a very large monstera that my cat just won’t leave alone. Currently my floor is covered in a 3 foot radius of tin foil with foil hanging from every leaf, and she still won’t stop trying to get to it! Any ideas? 
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:26:21 : Documents for biometrics appointment : neuro_pants : https://www.reddit.com/r/USCIS/comments/1itjymx/documents_for_biometrics_appointment/
+
+Hello,
+
+  
+I have a biometrics appointment next week and I was wondering what does \`You must bring your printed ASC appointment notice (Form I-797C)\` refers to in the appointment confirmation notice?  I don't see I-797C printed on the appointment notification but I see that on the I-485 notice of action. Any idea?
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:26:20 : Non counseling duties : Acrobatic_Shape8475 : https://www.reddit.com/r/schoolcounseling/comments/1itjymp/non_counseling_duties/
+
+Hello. I’m so frustrated with my work environment. This is my 4th year and my admin still do not understand my role. I have lunch duty 30 mins daily, I have 10 mins of arrival duty and 10 mins of dismissal duty. For the whole month of March my co counselor and I have to host students that are fasting for Ramadan and that’s an additional 30-40 mins each day. When we try to advocate that it takes us away from our services, they blame it on a lack of staffing. I feel like so much falls on us. Even when there are assemblies- students that can’t go because of discipline reasons or if it becomes too loud or something, there students come to us. We have no boundaries and just can’t say no. It’s absolutely ridiculous. 
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:26:23 : 📢 ASML is hiring a Technical Project Manager! : rrmdp : https://jobboardsearch.com/redirect?utm_source=reddit&amp;utm_medium=bot&amp;utm_id=jobboarsearch&amp;utm_term=echojobs.io&amp;rurl=aHR0cHM6Ly9lY2hvam9icy5pby9qb2IvYXNtbC10ZWNobmljYWwtcHJvamVjdC1tYW5hZ2VyLWJsYW93Lz9yZWY9am9iYm9hcmRzZWFyY2g=
+
+Company: ASML
+
+Location: US 📍
+
+Date Posted: February 19, 2025 📅
+
+
+
+
+Apply &amp; Description 👉 https://jobboardsearch.com/redirect?utm_source=reddit&amp;utm_medium=bot&amp;utm_id=jobboarsearch&amp;utm_term=echojobs.io&amp;rurl=aHR0cHM6Ly9lY2hvam9icy5pby9qb2IvYXNtbC10ZWNobmljYWwtcHJvamVjdC1tYW5hZ2VyLWJsYW93
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:26:29 : Curious Christian here, what’s your guys opinions on these things? : Ok_Direction5416 : https://www.reddit.com/r/atheism/comments/1itjyqv/curious_christian_here_whats_your_guys_opinions/
+
+You can answer as many or as little as you'd like, I'm curious as to the average atheist thought process. What are your guys thoughts on the following religions or beliefs.
+
+ Also btw I'm a Christian, I'm not looking to debate anyone, I want this to be civil, I'm asking you don't critize my beliefs I won't critize yours.
+
+
+Without further to do,
+
+What are your thoughts on,
+
+- American trump supporting Christian's 
+
+- liberal Christian's
+
+-Christian's who keep to themselves and follow the Bible without being loud about it
+
+-Catholics
+
+-orthodox Christian's
+
+-Muslims
+
+-Buddhists
+
+-secular Buddhists 
+
+-Sikhs
+
+-Hindus
+
+-Jews
+
+-Taoists 
+
+-Shintos
+
+-Voodoos
+
+-Spiritism
+
+-Confusciasts (sorry for spelling)
+
+
+
+Alright that's it yall, I want respect in the comments or I'll remove this post. And you can answer as many or as little as you want 🤠 
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:26:38 : more testers please😃😃 : Acrobatic_Trifle_685 : https://www.reddit.com/r/TestersCommunity/comments/1itjyv0/more_testers_please/
+
+I need 12 testers for closed tests, support me and I will support you,
+For 14 days do not uninstall the application, because I will not
+
+playStore: https://play.google.com/store/apps/details?id=com.xier.regulist
+
+google Group:
+https://groups.google.com/g/testers-community
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:26:36 : Am I the jerk for not wanting to pay back my sister? : HappyCat125 : https://www.reddit.com/r/AmITheJerk/comments/1itjytr/am_i_the_jerk_for_not_wanting_to_pay_back_my/
+
+
+Context: Everyone in my family knows that I'm not very good at saving money. Recently, my sister lost my beloved pet cat, and I am extremely mad and upset about it.
+
+I owe my sister $30, but she also owes me a lot more money. However, I don't keep track of it because money doesn't really matter to me.
+I have an Xbox GamePass subscription(which i DONT EVEN USE, only she does), but because my cat is missing, I haven't been able to renew it. My sister got upset when I told her about the GamePass and started saying that she always does everything for me. I told her that's not true because I have given her a lot of things in the past, including food and drinks from my job at Dunkin Donuts.
+I am very frustrated because I am the only one looking for our lost cat, while everyone else has given up hope. I feel like I am being blamed for everything, even though I am the one putting in the most effort to find the cat.
+Because of all this, I told my sister that I wont be paying her back until she helps me look for the cat. I also pointed out that I pay for a lot more things in the house, including the WiFi, while she only pays for Netflix. She said she’s given up and is okay that we wont find him, its only been about 2, just TWO weeks and she’s already given up.
+I know I'm not perfect and may have done some things wrong, but I believe that my sister is also at fault in this situation.
+
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:26:35 : Is it too late? : Sky260309 : https://www.reddit.com/r/Catholicism/comments/1itjytm/is_it_too_late/
+
+I had joined the conversion program back in October (roughly), the one where new found Catholics come together to learn about the faith before being baptised (and in my case, confirmed and given the Eucharist) on Easter Sunday. I only attended two of these weekly meetings back in October/November time before I wasn’t able to go back due to a busy schedule, stress etc.
+
+I know it’s no excuse and any able-bodied person should go to church but I have high levels of anxiety and I was taken by surprise when the person who said they would accompany me to these meetings as moral support backed out because they felt that they were being included too much in the process (e.g saying prayers off of a leaflet in a circle and sharing experiences) along with the fact that they aren’t “the one who wants to be Catholic”. 
+
+So I stopped going, I admit. It was a thing where I kept saying the following week and it never happened, because I was just foolishly wanting on this person to come with me even though they didn’t want to and there were weeks when this person was out of town and they were my means of getting to Church so I physically couldn’t but, all in all, I haven’t gone back in about 3 months. I know Catholics are forgiving and open but I can’t help but feel embarrassed for committing to this thing, that I do truly want and have prayed on, and then not being bothered to go. 
+
+At this rate, there is less time leading up to Easter than there is since I last went to the Church but I was wondering if I should still go back and any advice on how to soften the blow of returning (for when I see the priest and another sister who sits in on the meetings). It really is a small, intimate group, there has never been more than one other attendee whilst I’ve gone (twice) so as far as I know three people in total wanting to be baptised, both much older than me however, this group may have expanded between now and then. 
+
+I really just need some advice on how to approach the situation, the next meeting is tomorrow, I do really want to attend but is it too late? Should I wait to the next cycle?
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-19 23:26:53 : Desert Locked : Tukas_collectibles : https://www.reddit.com/r/UniqueIronmen/comments/1itjz1a/desert_locked/
+
+Im looking into starting a Desert locked HCIM. Goals are to complete clogs of various things as well as completing some TOA runs. Ive gotten a list of things i figured are ok exemptions as well as quests ill let myself complete. I was wondering if I was missing anything here. 
+
+The exemption list is:
+
+1 wool (Sleeping Giant)
+
+3 oak logs(Sleeping Giant)
+
+1 willow log (Icth little helper)
+
+1 bucket of sap (icth little helper)
+
+1 chocolate from getrudes cat (Tail Two Cats)
+
+1 bucket of milk (tail two cats)
+
+A house
+
+rune mysteries (skill unlock)
+
+gertrudes cat
+
+druidic ritual (Skill unlock)
+
+varrock museum (I do this on all my restricted accounts because I cba to lamp slayer from 1)
+
+  
+Quests Ill be able to complete:
+
+Spirits of the Elid
+
+The golem
+
+Prince Ali rescue
+
+The Tourist Trap
+
+Icthlarins little helper
+
+A tail of two cats
+
+Beneath cursed sands
+
+into the tombs
+
+Enakhra Lament
+
+The Fued
+
+Maybe Eagles peak and some NMZ for medium Desert diary 
+
+  
+Tempoross and Giants foundry are two things im going to do as ive never done them on any account so far. Like i said, let me know if i missed anything at all. Thanks for helping.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-22 18:34:20 : Your Higher Self knows your future and all its possible combinations, and it will communicate with you through goosebumps and more. : Vib_ration : https://www.reddit.com/r/neoshamanism/comments/1ivpl28/your_higher_self_knows_your_future_and_all_its/
+
+Whatever choice you make your Higher-self knows the series of events after that, And if you wish to get to a certain point in your life in the future, it knows how to get there exactly, step by step.
+
+Could it be possible to have a direct line of communication with your Higher-Self? Yes.
+
+First you need to understand that the reason why you experience non-instantaneous gratification of your wishes is that you may not be listening to your Higher-Self. That delay is caused by differences between what your ego, your personality, here on earth-chooses and what your Higher self will let you know to do or not to do.
+
+A really efficient way to open up to it's guidance is by becoming aware of the goosebumps/chills that you get from a positive external or internal situations/stimuli like listening to a song you really like, thinking about a lover, watching a moving movie scene, striving, feeling thankful, praising God, praying, etc.
+
+Feeling them from a positive stimuli is what distinguishes normal everyday goosebumps to the spiritual chills you experience as a confirmation from your higher-self. This is one way it communicates with you.
+
+If you take time to notice you will find that those positive chills have are accompanied by a subtle energy underneath your skin (sometimes cold and other times hot). Eventually, you can learn how to bring up this wave of euphoric energy without the physical reaction of goosebumps, everywhere you want and for the duration you desire.
+
+After researching what that specific current underneath the skin is I came across a LOT of information on it from all around the world.
+
+This energy has been researched and documented under many names, by different people and cultures, such as the [Runner's High](https://www.reddit.com/r/Spiritualchills/s/hYzxvrJBWo), what's felt during an [ASMR](https://www.reddit.com/user/SoColdSZA/comments/19eo2gr/introduction_to_asmr/) session, [Bioelectricity](https://www.reddit.com/user/SoColdSZA/comments/18zflei/introduction_to_bioelectric/), [Euphoria](https://www.reddit.com/user/SoColdSZA/comments/18zfn2t/introduction_to_euphoria/), [Ecstasy](https://www.reddit.com/user/SoColdSZA/comments/18zfnph/introduction_to_ecstasy/), [Voluntary Piloerection (goosebumps)](https://www.reddit.com/user/SoColdSZA/comments/18zfog0/introduction_to_voluntary_piloerection/), [Frisson](https://www.reddit.com/user/SoColdSZA/comments/18zflxi/introduction_to_frisson/), the [Vibrational State](https://www.reaprendentia.org/vibrational-state-effects-and-recommendations/#:~:text=The%20vibrational%20state%20indicates%20a,can%20also%20promote%20physical%20health) before an Astral Projection, [Spiritual Energy](https://www.reddit.com/user/SoColdSZA/comments/18zfi0a/introduction_to_spiritual_energy/), [Orgone](https://www.reddit.com/user/SoColdSZA/comments/18zfrvc/introduction_to_orgone/), [Rapture](https://www.reddit.com/user/SoColdSZA/comments/1alb9ur/introduction_to_rapture/), [Tension](https://www.reddit.com/user/SoColdSZA/comments/18zfth4/introduction_to_tension/), [Aura](https://www.reddit.com/user/SoColdSZA/comments/18zfssu/introduction_to_aura/), [Nen](https://www.reddit.com/user/SoColdSZA/comments/18zfs7u/introduction_to_nen/), [Odic force](https://www.reddit.com/user/SoColdSZA/comments/18zfr4a/introduction_to_odic_force/), Secret Fire, [Tummo](https://www.reddit.com/r/tummo/comments/18su94t/introduction_to_tummo/?utm_source=share&amp;utm_medium=web2x&amp;context=3), as [Qi](https://www.reddit.com/user/SoColdSZA/comments/18zfp1u/introduction_to_qi/) in Taoism / Martial Arts, as [Prana](https://www.reddit.com/user/SoColdSZA/comments/18zfkmj/introduction_to_prana/) in Hindu philosophy, [Ihi ](https://www.google.com/imgres?q=ihi%20maori&amp;imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D5788230414520966%26get_thumbnail%3D1&amp;imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fpikitehauora%2Fvideos%2Fihi-the-definition-as-it-is-written-in-te-aka-the-m%25C4%2581ori-dictionary-pronunciation%2F5788230414520966%2F&amp;docid=5VA1uPZ7vV6azM&amp;tbnid=TyqeYMx0vEageM&amp;vet=12ahUKEwi8-MDu_c2LAxUmHjQIHZdZAbQQM3oECFoQAA..i&amp;w=720&amp;h=720&amp;hcb=2&amp;ved=2ahUKEwi8-MDu_c2LAxUmHjQIHZdZAbQQM3oECFoQAA)and [Mana](https://www.reddit.com/user/SoColdSZA/comments/18zfsi7/introduction_to_mana/) in the oceanic cultures, [Life force](https://www.reddit.com/user/SoColdSZA/comments/18xusu4/introduction_to_life_force/), [Vayus](https://www.reddit.com/user/SoColdSZA/comments/18zfpep/introduction_to_vayus/), [Intent](https://www.reddit.com/user/SoColdSZA/comments/18zfqno/introduction_to_intent/), [Pitī](https://www.reddit.com/user/SoColdSZA/comments/18zfpsw/introduction_to_pit%C4%AB/), [Aether](https://www.reddit.com/user/SoColdSZA/comments/18zfu3w/introduction_to_aether/), [Spiritual Chills](https://www.reddit.com/r/Spiritualchills/), [Chills](https://www.reddit.com/r/Spiritualchills/) from positive events/stimuli, [The Tingles](https://www.reddit.com/user/SoColdSZA/comments/18zflxi/introduction_to_frisson/), [on-demand quickening](https://www.reddit.com/user/SoColdSZA/comments/18zfog0/introduction_to_voluntary_piloerection/), [Ruah](https://www.reddit.com/user/SoColdSZA/comments/18zfuig/introduction_to_r%C3%BBah/) and many more to be discovered hopefully with your help.
+
+All of those terms detail that this subtle energy activation has been discovered to provide various **biological benefits**, such as:
+
+* Unblocking your lymphatic system/meridians
+* Feeling euphoric/ecstatic throughout your whole body
+* Guiding your "[Spiritual Chills](https://www.reddit.com/r/Spiritualchills/)"  anywhere in your body
+* Controlling your temperature
+* Giving yourself goosebumps
+* Dilating your pupils
+* Regulating your heartbeat
+* Counteracting stress/anxiety in your body
+* Internally healing yourself
+* Accessing your hypothalamus on demand
+* Control your Tensor Tympani muscle
+
+and I discovered other usages for it which are more "**spiritual**" like:
+
+* A confirmation sign
+* Accurately using your psychic senses (clairvoyance, clairaudience, spirit projection, higher-self guidance, third-eye vision)
+* Managing your auric field
+* Manifestation
+* Energy absorption from any source
+* Seeing through your eyelids.
+
+Here are [three written tutorials](https://www.reddit.com/r/Spiritualchills/comments/16s11tn/benefit_from_your_spiritual_energy_starter_pack/) going more in-depth about this subtle "energy", explicitly revealing how you can learn to feel it voluntarily, feel it anywhere/everywhere, amplify it and those biological/spiritual usages.
+
+P.S. Everyone feels it at certain points in their life, some brush it off while others notice that there is something much deeper going on. Those are exactly the people you can find on r/Spiritualchills  where they share experiences, knowledge and tips on it.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-22 18:34:17 : Do you think Henry the VIII is in Heaven? : A_Thing_or_Two : https://www.reddit.com/r/Tudorhistory/comments/1ivpl02/do_you_think_henry_the_viii_is_in_heaven/
+
+Assuming your beliefs align with Heaven/Hell…. Based on how much he went against the Catholic Church, broke off and formed his own religion. How Catherine placed the belief of her purity on his conscience… do you believe these things would send him to Heaven? Purgatory for a bit of a singe first?
+
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:54:13 : 31st august 2024: Jewish Columbia students were chased out of dorms, spat on, and pinned against walls: damning report : LedofZeppelin : https://www.reddit.com/r/BeneiYisraelNews/comments/1iw8icb/31st_august_2024_jewish_columbia_students_were/
+
+Jewish students at Columbia University were chased out of their dorms, received death threats, spat upon, stalked and pinned against walls, as the Ivy League school devolved into a cesspool of antisemitic hate in the wake of Hamas’ Oct. 7 murderous raid on Israel.
+
+The new and disturbing details emerged from the [lengthy, 91-page document](https://president.columbia.edu/sites/default/files/content/Announcements/Report-2-Task-Force-on-Antisemitism.pdf) released Friday by the school’s faculty-led antisemitism task force, which revealed the extent to which the hate permeated the institution.
+
+“Students described being shoved, pushed to the ground, berated for showing support for Zionist causes, and watching [Israeli flags burned](https://nypost.com/2024/04/22/us-news/jewish-columbia-student-says-protesters-burned-his-israeli-flag-hit-him-in-face-with-rocks/),” the task force’s authors wrote.
+
+https://preview.redd.it/dgjrhvasnvke1.png?width=747&amp;format=png&amp;auto=webp&amp;s=0eb2d53629ec8718744f368783fa40a47849b389
+
+“They recounted seeing drawings of swastikas in their dorms, students yelling pro-Hamas chants, and being denied access to public spaces and opportunities simply because they were Jewish or Israeli.”
+
+Testimony from nearly five hundred Columbia students informed the report, which found visibly observant Jews had been pinned to the wall and had their jewelry ripped off while coming and going from synagogue. Others recounted being spat on and having been called ethnic slurs on campus.
+
+One student, who had installed a mezuzah on her dorm’s doorway prior to the Israel-Hamas war, was forced to move out after people were pounding her door throughout the night beginning in October, demanding she explain the Jewish state’s war in Gaza. 
+
+“If I walk on campus right now with my star out or kippah or say ‘am Yisrael chai,’ I could start World War III,” one anonymous student’s testimony read.
+
+Instructors tasked with guiding and mentoring students instead contributed to the sense of isolation and unease among Jews and Israelis on campus, according to the report. 
+
+https://preview.redd.it/441ls4lvnvke1.png?width=750&amp;format=png&amp;auto=webp&amp;s=11ac0ba9c761223505fd55822ffb1f94964fb3a6
+
+One faculty member leading a class that delved into the Israel-Hamas conflict called a student who previously served in the IDF a murderer. Another professor extensively said a pair of Jewish donors to the university had “laundered” “dirty money” and “blood money.” 
+
+During the spring, as protests and encampments roiled the school’s Morningside Heights campus, protesters, including outsiders and members of the university community, bellowed death threats at Jewish students. Demonstrators who held Israeli flags, meanwhile, recalled being assaulted. 
+
+“There is a sense of personal threat, and we keep looking over our shoulders,” master’s student Omer Lubaton Granot, an Israeli veteran and father of a toddler, told an Israeli radio station in the wake of protesters seizing the [academic building Hamilton Hall](https://nypost.com/2024/04/30/us-news/columbia-university-protesters-take-over-hamilton-hall/) in April.
+
+https://preview.redd.it/zqkgo09xnvke1.png?width=748&amp;format=png&amp;auto=webp&amp;s=fb17d824b6428a57c8f4b28917a22793be63a2b4
+
+Councilman Eric Dinowitz (D-Bronx) described the students’ testimonies as “horrifying — and not surprising.” 
+
+“These are stories we’ve been hearing about, as the report says, even before the encampments,” he told The Post, adding that antisemitism had been on the rise at college campuses even before Oct. 7
+
+“Without any sort of consequence \[for students and faculty\] this sort of behavior will continue.”
+
+https://preview.redd.it/to3l191znvke1.png?width=749&amp;format=png&amp;auto=webp&amp;s=74ef6943ccb56ce54e2547c51372c3dabd237324
+
+The task force offered several recommendations to address the issues detailed in the voluminous report, including improved anti-bias training for students and staff along with a new system for reporting complaints about antisemitism. 
+
+The report was issued just days before Columbia’s fall semester begins and less then three weeks after embattled university president Minouhce Shafik suddenly resigned, citing the “period of turmoil” that marred her brief tenure at the school. 
+
+Interim President Katrina Armstrong [called](https://president.columbia.edu/news/statement-interim-president-armstrong-second-report-task-force-antisemitism) the disturbing incidents “completely unacceptable” before rattling off new initiatives at the university aligning with the panel’s recommendations.  
+
+“This is an opportunity to acknowledge the harm that has been done and to pledge to make the changes necessary to do better and to rededicate ourselves, as university leaders, as individuals, and as a community, to our core mission of teaching and research,” she said. 
+
+[Columbia antisemitism task force details student assaults, targeting after Oct. 7](https://nypost.com/2024/08/31/us-news/columbia-antisemitism-task-force-details-student-assaults-targeting-after-oct-7/?utm_medium=social&amp;utm_campaign=nypost&amp;utm_source=twitter)
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:54:09 : Regarding the custom cards... : Truly_Organic : https://www.reddit.com/r/PTCGP/comments/1iw8ibb/regarding_the_custom_cards/
+
+Seeing as currently there's a community vote going on (which I would recommend checking out in community highlights!) I want to propose another solution.
+
+How about making another flair meant for them specifically, called "Custom Card" or something like that? That or simply allocating them to Art(OC) flair.
+
+Card concepts posted outside of that flair would simply be removed and OP would be requested to post them under the proper flair.
+
+I know that's pretty much the same as the current plan but with a flair instead of the Content Creator Hub, but simply I don't think said Content Creator Hub is fit for posting custom cards there, since it's basically a single big megathread and it would become painfully long to scroll through with all the artwork and discussion regarding it under every single one of them. It would be better if it stayed as a place for sharing video content only.
+
+Sorry for the long message. I hope it's ok of I express my Idea in a post like this...
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:54:04 : I MISS TOMODACHI : Visible_Mango21 : https://www.reddit.com/r/tomodachilife/comments/1iw8i9v/i_miss_tomodachi/
+
+About a year ago my cat knocked my DS off my desk and then also sat on it… breaking the screen and the DS as a whole. I was pretty bummed about that but now at least once a month I think back to tomodachi life and wish I could still play it. I’m just thinking about my miis who are waiting for me to return but I can’t! 
+ITS NOT MY FAULT MIIS I WANT TO SEE YOU AGAIN!
+I want to buy another DS but they’re not exactly cheap and I’m not sure if it’s a justifiable purchase.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:54:22 : day 4 : mothersufferr : https://www.reddit.com/r/stopdrinking/comments/1iw8ifc/day_4/
+
+just a vent to people that i know will understand: today is day 4 sober for me, i know it isn’t much but it’s the longest i’ve gone in 6 months. i will say it’s been a challenge but worth it. i went 6 months barely being sober every night, 5 shots of 100 proof vodka a night- sometimes more. it really took a toll on me mentally and physically. thankfully im on medication for my PTSD, GAD and MDD so it’s been a little easier to cope with the feelings that make me want to drink. i’m also on naltrexone. it feels good not waking up feeling suicidal, depressed, and exhausted. tonight will be somewhat of a struggle for me because it’s my “friday”, and im so used to going to the liquor store after a long weekend of work. i’m tired of being a regular there lol. i’m just trying to think about how shitty i’d feel tomorrow if i drank tonight. i just need to take my naltrexone and tell myself it’s not worth it. any words of motivation are greatly appreciated💜✨
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:54:21 : Top VPNs for Georgia : Dear-Owl7333 : https://www.reddit.com/r/TheVpnEng/comments/1iw8iez/top_vpns_for_georgia/
+
+Georgia, a nation where the Caucasus Mountains meet the Black Sea, offers a captivating blend of history, culture, and natural beauty. But in our interconnected times, there's another aspect to consider: digital freedom and security. Whether you're a local resident, a digital nomad soaking in the vibes of Tbilisi, or simply planning a visit, understanding the need for a Virtual Private Network (VPN) is paramount.
+
+Why? Because in Georgia, as in many places, the internet isn't always as open and secure as we might hope. You may encounter geo restrictions that block access to some streaming content, government monitoring that threatens privacy, and cyber threats that put your personal information at risk.
+
+But don't worry! A dependable VPN can be your passport to online liberty and protection. This blog post cuts through the technical jargon and offers a simple rundown of the top VPNs for Georgia in 2025, focusing on what matters: security, speed, and access.
+
+# Why Use a VPN in Georgia?
+
+Think of a VPN as a digital bodyguard. It creates a secure, encrypted "tunnel" for your internet traffic, concealing your data from prying eyes and making it look like you're connecting from somewhere else. Here's why it's beneficial:
+
+* **Circumventing Geo Restrictions:** Ever tried to watch your favorite show only to be met with the frustrating message "This content is not available in your region"? VPNs let you bypass these blocks, accessing streaming services like Netflix, BBC iPlayer, and even local Georgian channels from anywhere.
+* **Protecting Your Privacy:** In a world of increasing surveillance, a VPN encrypts your online activity, making it harder for governments, ISPs, or cybercriminals to track your browsing history, communications, and location.
+* **Securing Public Wi-Fi:** Public Wi-Fi hotspots are notorious for being insecure, leaving your data vulnerable to hackers. A VPN shields your information on these networks, keeping your passwords, financial details, and personal data safe.
+* **Unfettered Access to Info:** While Georgia enjoys relatively high internet freedom, some restrictions and monitoring exist. A VPN helps ensure you can access a wide spectrum of info without fear of censorship.
+
+# What Makes a Great VPN for Georgia?
+
+Not all VPNs are created equal. To ensure the best protection and access, here are some essential characteristics to seek:
+
+* **A Substantial Server Network:** Look for a VPN with servers in many countries, including Georgia or nearby regions. This gives you speed, reliability, and the ability to connect to local content.
+* **Blazing Fast Speeds:** No one wants to contend with buffering and lag. Prioritize VPNs known for their high-speed servers, so you can stream, game, and browse without hiccups.
+* **Military-Grade Security:** Your VPN should employ powerful encryption protocols (like AES 256-bit) to keep your data safe from hackers and surveillance. Extras like a kill switch and DNS leak protection are very appreciated.
+* **A Strict No-Logs Policy:** This means the VPN provider doesn't track or store your online activity, offering assurance that your privacy is respected.
+* **Easy-to-Use Apps:** The VPN apps should be simple to set up and use on all devices, whether you're a tech whiz or a novice user.
+* **Reliable Customer Support:** Access to prompt and knowledgeable customer support is invaluable, particularly if you encounter any issues.
+* **A Trustworthy Money-Back Guarantee:** This allows you to test the service risk-free and get refunded if it doesn't meet your needs.
+
+# The Top Contenders: Best VPNs for Georgia in 2025
+
+Okay, let's get down to specifics. Based on rigorous testing and analysis, here are some of the leading VPNs for Georgia in 2025:
+
+# 1. ExpressVPN: The All-Around Champ
+
+ExpressVPN is consistently praised for its speed, security, and expansive server network.
+
+* **Why It's Great:** Its vast network includes servers in Georgia, guaranteeing swift connections to local content. Moreover, its military grade encryption, no-logs policy, and kill switch provide top-tier security. MediaStreamer lets you even stream on devices that don't natively support VPNs.
+* **Downsides:** It's a bit pricier than some other choices, and the streaming servers aren't specifically labeled.
+* **What It's Ideal For:** Anyone who wants a dependable and speedy VPN for streaming, browsing, and general online security.
+
+# 2. CyberGhost VPN: Streaming Made Easy
+
+CyberGhost focuses on providing effortless access to streaming content, and is simple to use
+
+* **Why It's Great:** It boasts an extensive network with servers in Tbilisi, Georgia, and streaming optimized servers, allowing you to binge on Georgian TV shows and sports without buffering. Additionally, it utilizes strong encryption and a no-logs policy for privacy.
+* **Downsides:** Some may find it is better suited to beginner users and the shorter subscriptions are less valuable
+* **What It's Ideal For:** Those looking for easy access to streaming content, particularly Georgian TV, with good speed and reliability.
+
+# 3. Private Internet Access (PIA): Security Focused, Customizable
+
+PIA is recognized for its high-end security features.
+
+* **Why It's Great:** Advanced security features, including WireGuard protocol and a kill switch to avoid privacy breaches. The default AES 128-bit encryption has fast speeds. It also offers a built in blocker to maintain user privacy.
+* **Downsides:** Some forums and support documentation might be a little outdated.
+* **What It's Ideal For:** People who need many servers, strong encryption against cyber threats, and the ability to use the VPN on numerous devices.
+
+# 4. NordVPN: Speed and Security Combined
+
+NordVPN is a popular choice for its impressive speed and security features, with lots of global servers including Georgia.
+
+* **Why It's Great:** NordVPN offers over 6,000 servers globally, including multiple servers in Georgia. Features include unlimited bandwidth for streaming, and specialty servers.
+* **Downsides:** Some of the advanced features might take a little while to master.
+* **What It's Ideal For:** This is the best overall pick for users in Georgia with specialty servers and solid speeds.
+
+# 5. Surfshark: Value and Unlimited Connections
+
+Surfshark stands out for allowing unlimited simultaneous connections.
+
+* **Why It's Great:** Connect as many devices as you want! Offers excellent streaming, as well as browser extensions. Excellent customer support is available.
+* **Downsides:** Some features require the Surfshark One subscription.
+* **What It's Ideal For:** This VPN is the best value for Georgia, with unlimited simultaneous devices.
+
+# Other Solid VPN Choices
+
+These VPNs might not be top contenders but provide reasonable service
+
+* **IPVanish:** It's good for VPN newcomers but it's Georgia servers are lacking.
+* **PrivateVPN:** PrivateVPN is known for P2P features and is an option for torrenting.
+* **ProtonVPN:** Offers excellent performance and reliability but the user will sacrifice security.
+
+# Using a VPN in Georgia: Quick Setup Guide
+
+Getting started with a VPN in Georgia is simple:
+
+1. **Choose a VPN:** Select a VPN provider from the above list, taking into account your requirements and budget.
+2. **Download the App:** Get the VPN app for your device (Windows, Mac, Android, iOS, etc.) from the provider's website.
+3. **Install and Launch:** Install the app and open it.
+4. **Connect to a Server:** Choose a server location. If you wish to access local Georgian content, pick a server in Georgia. If you're streaming content from another area, choose a server in that region.
+5. **Surf Securely:** Once connected, your internet traffic is secured. You can now browse, stream, and perform tasks knowing your information is safe.
+
+# Common Questions Answered
+
+* **Is it legal to use a VPN in Georgia?** Yes, it is perfectly legal. There aren't any specific rules prohibiting VPN use in Georgia.
+* **Can a VPN truly protect me from everything?** While VPNs offer enhanced security and privacy, they're not impenetrable shields. It's still crucial to practice good habits online, such as using strong passwords, being mindful of phishing attempts, and avoiding dubious sites.
+* **Will a VPN slow down my internet speed?** All VPNs have the potential to reduce your connection speed somewhat because of the encryption process. Nevertheless, top-tier VPNs maintain super-fast servers that reduce the effects on your speed.
+* **Can I use a free VPN?** While tempting, free VPNs typically come with serious limits regarding speed, bandwidth, and security. Some may even track and sell your information, undermining the function of using a VPN to start with. It's generally best to stay with a paid service with a solid history.
+* **How do I know if my VPN is working?** You can utilize a variety of web tools to determine if your IP address has been masked and if your DNS is secure. Look for "IP leak tests" online.
+
+# Take Control of Your Online Experience
+
+In Georgia, as everywhere, your digital security and freedom are important. By choosing a respectable VPN and comprehending its use, you can reclaim control of your online presence, access the content you love, and enjoy peace of mind realizing your information is secure. Don't hold back embrace the strength of a VPN and experience the net without any restrictions!
+
+# A More Technical and Complete Study of the Best VPNs for Georgia
+
+The demand for secure and open access to the internet is higher than ever in Georgia, and VPNs provide a solution.
+
+The finest virtual private networks will have a respectable combination of dependable security protocols. These components are essential for a secure surfing experience and one that permits added freedom and anonymity online. The rise of digital platforms means that it's more important than ever to have access to secure VPN technology, especially for the unique use-cases in Georgia.
+
+Some provide significantly better connection speeds and higher degrees of protection than others; the user reviews and the service's features play a role in picking the perfect options for your requirements.
+
+# Leading VPNs for Georgia
+
+* **NordVPN** A top choice for those in Georgia, NordVPN boasts over 6,000 servers across the planet. With servers in Georgia, this pick provides fast speeds and limitless bandwidth.
+* **Surfshark** Provides simultaneous connections for a reasonable price.
+* **ExpressVPN** Offers solid speeds, large bandwidth and reliable ability.
+
+# Factors to Consider
+
+* Many VPNs claim to work with the country, some VPNs (most notably free VPNs) end up not working because they're often blocked.
+
+# VPN Setup
+
+1. Register with one of the VPN services;
+2. Then, download the application for your device;
+3. Sign in to the VPN and select your server;
+4. Following the content unblocking go to the site.
+
+Clearing your browser's cookies and attempting a new server may be needed in case you have any difficulties.
+
+NordVPN offers a risk-free 30 day trial, which is highlighted on their site.
+
+# Georgia At A Glance
+
+VPNs for Georgia are shown, with the recommendation to try NordVPN.
+
+* Internet censorship and security in Georgia need to be considered. Filters are applied by state-sponsored entities, which put a cap on which content can be viewed by citizens.
+* Internet users face digital privacy issues with some collection methods, restrictions and potential criminalization.
+* The most effective way to protect against these breaches is through a VPN because they ensure better security and more reliable privacy.
+* Virtual networks help users conceal material that is censorious, and prevent web activity by Internet Service Providers (ISPs).
+* The ability to use VPNs is an indisposable tool for remaining unknown when surfing the web in Georgia.
+
+# How To Ensure Online Privacy
+
+Privacy and security are crucial online; when using virtual private networks, one should adhere to some practices.
+
+These include finding providers with solid encryption and security, and preventing private networks that might not have as much security across a great number of platforms.
+
+Keep yourself and your data safe by following these measures, any place in Georgia that you go.
+
+Be certain that you will be able to access the web freely and hold yourself apart from those online regulations from within the country by following the VPNs mentioned earlier.
+
+When assessing for censorship bypass in Georgia, make sure to try to find what steps could ensure censorship bypass.
+
+Checking against what users say and if that platform can work with sites blocked within the country.
+
+To secure data, make sure VPNs use protocols such as Encryption Standard (AES) 256 to make sure VPNs meet the security regulations.
+
+Make sure you have avenues for support from the provider with communication methods so they can help quickly.
+
+Do research to be certain to join with a VPN provider, to ensure that all experiences run as expected.
+
+To conclude, VPNs provide ways to deal with web censorship within Georgia, and improve data for security by encoding data. Make sure to pick a high-quality service, follow suggestions on privacy, be certain that the use-cases match the providers features, so you could connect with peace of mind.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:54:20 : League Recruitment : Gorki_BTW : https://www.reddit.com/r/Injustice2MobileGame/comments/1iw8ien/league_recruitment/
+
+# 💥 [VH] The Trench [TT] 🪖
+Part of the VlurHyme family of leagues!
+
+**Requirements to join:**
+● Minimum **10M TTV**
+● Active participation in Raids and Invasions
+---------------------------------------------
+● Coordinated **T10** Raids  
+● Coordinated Invasion attacks 
+
+# Are you ready for war?🎖️
+We are a dedicated league seeking new comrades. Join us in VlurHyme and become part of a thriving community that values strategy, skill, and camaraderie. Together, with teamwork and unity, we will take the game INJ2M to the next level in the trenches!
+
+**Invasion** 
+Currently in **Division 3**, we are striving to grow stronger and better, and we want you to be part of this journey!
+
+If you’re interested in joining **The Trench**, join the VlurHyme Server, head to the league section, and apply to become part of the VlurHyme family. 
+https://discord.gg/Fexfea6TVg
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:54:19 : Any way to add the thing I find MacOS lacking compared to Windows? : MrMargaretScratcher : https://www.reddit.com/r/MacOS/comments/1iw8iee/any_way_to_add_the_thing_i_find_macos_lacking/
+
+Namely:   
+A filepath location field in Finder windows that I can copy/paste from/into  
+A little 'x' to allow me to close minimized/hidden finder windows (and other multiple instanced apps, eg chrome) when I right click on the icon in the dock
+
+TIA
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:54:17 : Free Dental Cleaning : Technical-Muffin-852 : https://www.reddit.com/r/CasualToronto/comments/1iw8ie0/free_dental_cleaning/
+
+Hi I am a dental hygiene student of Toronto College of Dental Hygiene and Auxilliaries and I am looking for persons who are interested in having a dental cleaning for FREE. Services include a full mouth assessment, x-rays ( if needed), dental cleaning ,and fluoride treatment. Appointments range up 4-6 sessions. Anyone interested can feel free to send me a message for more information. Haven’t had a cleaning in a long time sign up here and help me graduate.
+
+Location: North York 
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:54:17 : I built a pc but when I open a programme after I turn it on my screen goes black, then proceeds to work : Sensitive_Flower_670 : https://www.reddit.com/r/buildapc/comments/1iw8idv/i_built_a_pc_but_when_i_open_a_programme_after_i/
+
+Every time I turn on my pc the first decently sized application I open makes my pc freeze and turns my screen black . This black screen the replaces my windows background and shows none of the apps apart from this the pc runs fine and I’m just wondering how I can stop it from freezing . I’m on the newest version of windows 11 with newest nvidia drivers
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:54:34 : Should I not pay to dominos? : myst-18 : https://www.reddit.com/r/indiasocial/comments/1iw8ij5/should_i_not_pay_to_dominos/
+
+They sent half of my order within 30 minutes. When I complained about the other half of my order they asked for my location and are sending it now. This process took about 2 hours more. Am I supposed to ask for my money back?
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:54:29 : What is your Federal IT response to the latest Musk request email : Aggressive-Yam2607 : https://www.reddit.com/r/fednews/comments/1iw8ihi/what_is_your_federal_it_response_to_the_latest/
+
+Here is my 100% truth answer to the email, I'm sure this is what he is looking for
+
+1. I attend unproductive meetings where there is a lack of clear direction and no support offered to assist the field IT staff
+
+2. I support aging hardware and have to respond to "why is the network slow" even after I have told them that they need to replace the CAT3 cabling for the last 15 years
+
+3. I continue to resolve the same tickets for the same users who still do not know how to select the right printer
+
+4. I have to drop everything and reimage end user laptops that they swear they use but they don't, and they drop off AD over and over again
+
+5. I have to teach myself how to support software products my Agency creates and does not provide me any training
+
+6. I do the job of other departments because they are clueless as to how to get work done and if I wait for them to do it, it could delay me endlessly
+
+
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:54:28 : MUSEUM OF ILLUSIONS MADRID, WHAT TO EXPECT : izzywizzys : https://www.reddit.com/r/MustSeeMadrid/comments/1iw8igy/museum_of_illusions_madrid_what_to_expect/
+
+As someone with three kids, I am always looking for ways to have fun with my kids here in Madrid. There are plenty of museums and parks to go to, but every so often we come across an original attraction, and the museum of Illusions in Madrid is a great way to spend some fun time with your kids. If you are looking for some fun things to do in Madrid, be sure to add this place to your list.
+
+The staff are really nice here, super friendly to the kids and adults alike and this really adds to the experience. It can get pretty busy and there can be queues at times, so its really a good idea to pre book your tickets for the museum of illusions before hand to avoid long queues.
+
+The Museum of Illusions is conveniently located right in the heart of Madrid city center and you can walk there in a couple of minutes from the Puerta del Sol. So once you finish up here, you can just continue your tour through the city without having to travel any great distance.
+
+[museum of illusions madrid](https://mustseemadrid.com/museum-of-illusions-madrid-what-to-expect/)
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:55:18 : Lucia auth : Large-Excitement6573 : https://www.reddit.com/r/nextjs/comments/1iw8iwl/lucia_auth/
+
+Hey everyone,
+
+I’m working on a Next.js project that currently handles authentication using Lucia Auth. Everything is working perfectly, and I’d prefer not to change any code if I don’t have to.
+
+However, I recently saw on the Lucia Auth GitHub page that it’s going to be deprecated soon.
+
+My question is:
+Is it okay to leave the code as it is and continue using Lucia Auth?
+
+Would appreciate any insights or advice. Thanks in advance!
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:55:11 : Catalans, així no anem a cap lloc. : WildTwist8515 : https://www.reddit.com/r/catalunya/comments/1iw8iuq/catalans_així_no_anem_a_cap_lloc/
+
+He comentat una publicació anterior i a rel del que dit i llegint una mica més, crec oportú fer la aportació del que són les meves obsevacions. Aquesta publicació inclou el que he dit anteriorment a l'altre publicació i més.
+Tinc 29, sóc Catalana del Maresme (BCN) per part de mare i "xernega" per part de pare. Amb cadascún parlo el corresponent. (Sense contacte actual amb el pare, així doncs, a casa meva sol es parla el Català)
+Aclarar que, dono la raó aquells que diuen que hi ha gent que no te cap mena d'interès en integrar-se, adaptar-se... La meva família Andalusa no ha après el Català...horrible sii...
+Al que vaig,.. parlo més llengües, una vegada passes a ser poliglota i, si viatges una mica, et dons conte de que la comunicació entre persones es molt important, un no s'expressa de la mateixa manera parlant una llegua o un altre (Això es molt interessant, es canvia de personalitat fins hi tot). Hi ha vegades que una llegua pot expressar/dir molt més que un altre i un mateix a de fer per que el receptor del teu missatge l'entengui.
+I el més important de tot el que volia dir. HEU DE PORTAR EL CATALÀ FORA!!! Jo sempre sempre sempre que parlo amb gent no catalaparlants, fora de la nostre estimada Catalunya, els hi vaig introduint paraules en Català, dites curtes, petites expressions catalanes, etc. Com ara bé, Bon día! A reveure! Un petó, la paraula -grillat- agrada molt, -cullons- també agrada (com no..), -campi qui pugui-, -senyoret/a-, si em diuen -Tengo hambree!!, jo responc - Tens gana? Doncs menjat una cama!. I molt més.
+Evidentment tradueixo sempre, el que vull es que m'entenguin, la gent es molt agraïda arreu del món, gairebé tothom s'interessa una miqueta més per el Català i a molt poca gent els molesta, crec que s'ha generalitzat massa o potser es la percepció que sentim el catalans aqui Catalunya, el que ens fan creure.... Evidentment, a la actualitat hi han menys catalaparlants però es cosa nostre i no tant de la opressió, deixem el passat, no hi ha excusa. Porteu el Català més enllà de les fronteres catalanes, els idiomes són riquesa, la gent inteligent amb cultura propia i afam per tindre coneixements ho agrairà i el que no, pe'l que em fá a mi, que l'hi donguin pe'l cul, no mereixen el nostre esforç en fer-se'ls entre res.
+Deixeu el que, qui o quan, simplement parleu Català a Catalunya i arreu del món, ajudeu al qui no l'enten parlant-li Català i traduint si fa falta!  
+Per què hi han tantes proclamacions demanant que hi s'hi apliqui més el Català a les aules, les app, cartells informatius, cartes/menú de bars/restaurants, etc? Desde quan les esferes polítiques han produït canvis d'aquesta mena sense la insistència del poble?
+De veritat creieu que aquesta es la manera correcta de demanar el canvi? Fent crits a l'aire?
+Perquè els nen no parlem a l'hora del esbarjo el Català? O sol el parlen entre els que a casa seva el parlen però en canvi si es dirigeixen a un altre alumne canvien de llengua?
+No es tindrà que comença a les portes del colegi? Papis i mamis que recolliu els vostres nens, en contes de estar demanat als colegis que ho facin tot? La educació i perpetuació dels valors de la llengua i la cultura no correspon als pares? Si un nen castellaparlant escolta per un segon que algú es dirigeix cap els seus pares en Català, no creieu que, mica en mica, el nen associarà que si entre els seus pares i els d'un altre nen s'intenten comunicar lleugerament en Català, alomillor ell també ho pot fer amb el fill d'aquells pares que l'hi parlen Català al seus? Grups de WhatsApp...papis i mamis..el mateix dic. Això pe'l que fá a les escoles, que es un comença! 
+Recordeu que si algú al que l'hi parles en Català, canvia al Castellà, es la manera que te de comunicar-se, parleu Català i traduir-lo si fá falta.
+El mateix amb un restaurant, de cop i volta es torna turístic i es possa una carta en Anglès, adaptació de mercat.
+Desde quan la oferta va abans que la demanda? Així no funciona. Primer hi ha demanda, que la gent de peu ho parli, es faci entendre pe'l demés i la societat s'adapta, possarà el Català arreu.
+EXPLICARÉ AIXÒ, que veig a un munt de gent dient, -peroooooò si ja demaneeeeen!!!!-
+[Entenem per oferta/demanda de mercat! La demanda NO es demanar/proclamar, ES LA NECESSITAT! (Molts catalaparlants crea la NECESSITAT de tindre el Català per tot arreu). La oferta es la resposta aquesta necessitat, és a dir, app en Català, dibuixos infantils, informació en carreteras, infinites possibilitats d'adaptació a la demanda]
+Se que la llengua i cultura no es mercat, però em arribat aquesta situació en la que es necessita que es necessiti el Català, així com a passat amb l'Anglès, es trist..si!
+I ara molts direeeeeu...-Aquesta situació de necessitat es per culpa de la opressió!-
+Repeteixo, no es sol la opressió, ni passada ni actual, he llegit/escoltat moltes vegades que quan era viu Franco i la prohibició, bla bla bla.
+Moltes persones a casa seva varen deixar de parlar el Català i així generacionalment, això no es culpa del tot de'n dictador Franco, doncs, el meu avi mai va deixar de parlar-lo a casa seva, amb la seva gent, no sabia escriure ni llegir en cap de les dues llengües i quan va tindre la oportunitat (òbviament, després mort en Franco) va apendre'n en les dues llengües. Avui a casa tots parlem entre nosaltres el Català. 
+El meu germà te 20 anys, juga al PC...(com no..), ell te les dues llengües ben integrades i les utilitza i canvia constantment, en el seu grup de PC hi ha de tot, catalaparlants, amics catalans però que parlen el Castellà i amics de Galícia, Malaga i Madrid, ells en concret, escolten el Català i pregunten que significa tal cosa. Moltes vegades el meu germà ens parlar a nosaltres (gent de casa) i els que no entenen el Català pregunten, -¿De que hablabais?-, pregunten per curiositat, doncs com també he mencionat abans (porta del colegi amb pares i nens), si ho escoltes, et familiaritces i prové del teu entorn segur, aprens i això porta a la pràctica i després a l'ús. Ara ja identifiquen paraules com sopar, gos, treure, menjar... Com entenen algunes paraules saben quina es la frase completa. I això també es el exemple perfecte del que he mencionat anteriorment, altre cop, de "exportar" el Català fora de Catalunya.
+
+RECOMANACIÓ: youtube, -World friends- https://youtube.com/@worldfriends77?feature=shared
+Alucinant la conexió entre idiomes aparentment molt diferents.
+Parla sense vergonya, parla el Català. I si t'equivoques torna a començar! Visca Catalunya! Un petó a tothom!
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:55:26 : Wtb catalyst artifact : D4rk_95 : https://www.reddit.com/r/DCUO/comments/1iw8iz1/wtb_catalyst_artifact/
+
+Want to buy catalyst artifact pm price
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:55:22 : Questioning My Diagnosis – No Spikes Yet? : kybellatrix : https://i.redd.it/4u3nyhx8ovke1.jpeg
+
+I was diagnosed with diabetes about a month ago with an A1C of 7.9%, which (from what I understand) averages to around 180 mg/dL. However, since my diagnosis, I’ve been testing sporadically, and I’ve yet to catch a significant spike.
+
+This weekend, I decided to experiment a little. I’ve been feeling burned out from my new diet, so I had a more indulgent couple of days—pancakes for breakfast one day, a small amount of rice with dinner, and Pizza Hut cheese sticks another night. I wanted to see how my body reacted to carbs while also giving myself a morale boost.
+
+The first couple of days, I mainly went by feel because, honestly, I hate poking myself. But last night, I finally tested after eating the cheese sticks:
+	•	Woke up around 2-3 AM and checked my fasting BG—it was in range.
+	•	Ate a little more as a snack and tested 1 hour and 2 hours after.
+	•	Highest I hit was 122 mg/dL, and by the 2-hour mark, it was already dropping.
+
+Everything seemed normal. So now I’m left wondering—where are my high blood sugar readings? I know I’m on Metformin (500mg, twice a day), but even before I started the medication, I wasn’t catching anything crazy when I tested randomly throughout the day.
+
+One thing I haven’t tested yet is sweets—cookies, brownies, cakes, etc. I’ve never had a big sweet tooth, so outside of the holidays, I would maybe eat something like that 2-4 times a month. Is it possible that those are the only foods that truly spike me? And that I just haven’t seen a high BG because I haven’t eaten anything like that?
+
+I’m considering testing my BG after a brownie or two to see if that skyrockets it, but I think I’d rather do that while wearing a CGM to avoid all the finger pricks and have continuous data. 
+
+Has anyone else experienced this? Could my A1C have been a fluke, or is my body just handling carbs better than expected? 
+
+TL;DR: Diagnosed with A1C 7.9%, but I haven’t caught a high BG reading yet. Experimented with carbs (pancakes, rice, Pizza Hut cheese sticks), but my highest reading was 122 mg/dL, and it dropped normally. I haven’t tested sweets yet since I rarely eat them—could those be my only spike trigger? Thinking of trying it with a CGM instead of finger pricks. Anyone else experience this?
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:55:22 : AITAH for being angry at my friend / classmate : Bsthelmic : https://www.reddit.com/r/AITAH/comments/1iw8ixv/aitah_for_being_angry_at_my_friend_classmate/
+
+Long story short. 
+I was sick , missed a week of school , told my friend to communicate with the teacher.  I’m thinking he didn’t knowing what I know now … 
+Yesterday I learned from another classmate  , that the teacher isn’t allowing me to take the exam and I won’t be able to graduate. 
+The teacher also apparently told my classmate and my classmate chose not to tell me. 
+The exam is Monday and I was just showing up .. 
+I am beyond livid at my “ friend “. When I spoke to him he said he didn’t know how to tell me ..( mind you that is a 23 year old man and the teacher tasked him with that  ) So what was the plan let me get humiliated on Monday ? 
+I know my absences were my responsibility and I would do it again. I was in a horrible state. I tried to keep up with school through him .. and he was kinda just holding off and I felt weird. but I really thought he was my friend and he won’t just let me down like this. 
+I am beyond pissed and disappointed. 
+Had I known before I would’ve contacted admin or something and had at least time to process that now I won’t be able to graduate even.. I am pissed at him and idk if my feelings are valid , am I just angry at the situation ? Was he wrong for it ? 
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:55:42 : Free Dental Cleaning : Technical-Muffin-852 : https://www.reddit.com/r/torontoJobs/comments/1iw8j4a/free_dental_cleaning/
+
+Hi I am a dental hygiene student of Toronto College of Dental Hygiene and Auxilliaries and I am looking for persons who are interested in having a dental cleaning for FREE. Services include a full mouth assessment, x-rays ( if needed), dental cleaning ,and fluoride treatment. Appointments range up 4-6 sessions. Anyone interested can feel free to send me a message for more information. Haven’t had a cleaning in a long time sign up here and help me graduate.
+
+Location: North York 
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:55:37 : Looking for a photographer. : Th3Man0nTh3M00n : https://www.reddit.com/r/orangecounty/comments/1iw8j2k/looking_for_a_photographer/
+
+Hi, I’m looking for recommendations on a photographer for a beach proposal for March 2nd around Newport. 
+
+Weird situation, but the proposal isn’t really a surprise (other than the location and setup), but the lady would still like the experience and photo memories of it. My brother is taking care of the setup on the beach. I’m not too familiar with good beach spots to propose around Newport, so I’d appreciate recommendations on that as well. 
+
+Thank you!
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:55:52 : people trying to hammer me down : Administrative_Leg85 : https://www.reddit.com/r/self/comments/1iw8j7k/people_trying_to_hammer_me_down/
+
+like the phrase goes the nail that stick out the most should be hammered down or something like that
+
+Everyone around me is trying to pull me down like they are rushing me to get a house, rushing me to get an education. I just want this year to myself, to take a breather, to figure out what I want.
+
+Like when I read books my friends and people around me tell me that I shouldn't be reading if I can't make money off it or hobbies are useless if you can't make money off it. Sometimes they'll say that I'm poor while having the hobbies of a rich man. Even saying that travelling when you are young is useless
+
+I have no interest in the singaporean dream, I'm happy with having a small apartment since I don't plan on getting married or even just moving out the country instead of staying here
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:55:50 : [FOR HIRE] Looking for a long-term client : Flaky_Statement_6169 : https://www.reddit.com/r/VideoEditors_forhire/comments/1iw8j6z/for_hire_looking_for_a_longterm_client/
+
+*I'm a freelance video editor from india, with 2 years of experience, having worked on 100+ long-form videos and 100+ short-form videos across all niches—YouTube, gaming, podcasts, business content, social media, and more. I focus on engaging edits, smooth pacing, eye-catching effects, and custom thumbnails to make your content stand out. With fast turnaround times, flexible revisions, and competitive pricing, I ensure high-quality results without the hassle. If you're looking for a reliable, creative editor who’s easy to work with, feel free to reach out—I’d love to bring your vision to life* :))
+
+Portfolio : [https://yagatiudit.carrd.co/](https://yagatiudit.carrd.co/)
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:56:02 : Sword in a tree... Finchdale info? : Lonewolfermam90 : https://i.redd.it/l40g59hdovke1.jpeg
+
+Just looking for some info on this "sword in a tree". Located in Finchdale Priory's woodland walk on the other side of the river (on the right, if your coming down the steps from Cocken Rd). Drove out and took my daughter for the day, she's 7, loves history and was mega intrigued and wanted to know all about it. Couldn't find any info on it online once we were home and the gent in the cafe had no idea either bless him, was lovely though trying to be helpful with other facts regarding the Priory and grounds.
+
+Any information or sources from books would be greatly appreciated, thanks!
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:56:01 : Struggling to get a work shadowing placement : MrStewartCat : https://www.reddit.com/r/UKJobs/comments/1iw8jaq/struggling_to_get_a_work_shadowing_placement/
+
+Im an A-level student, and my school requires I do a work shadowing placement for a week in May
+
+Problem is, I havent gotten a placement a month or two and its stressing me out
+
+Ive contacted a place and got turned down due to issues with the business, and ive emailed another 3 other places in the past month and havent got responses (i only emailed one a few days ago, so im giving them the benefit of the doubt rn)
+
+Im searching for a placement in animal care or anything related to that. Ive emailed reptile shops, a cattery, and a vet, but im really struggling to get anything back.
+
+Anyone got tips? Maybe something im missing? Im too anxious to do a phone call or go in to ask, and I feel silly getting my parents to call for me, so emails are all I can really do.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:55:55 : Protect the Nymph [epic fantasy, 500 words] : martanolliver : https://www.reddit.com/r/fantasywriters/comments/1iw8j8q/protect_the_nymph_epic_fantasy_500_words/
+
+Sangar scanned the land from the heights of the valley. He groaned and sat down at what he saw.
+
+
+The lodge of Minloa had been raized. He chewed on his smoked meats his back turned to the path that would take him there as if by not looking it wouldn't be true. 
+
+It had been in the back of his mind. No communication from thier whisperers for over a season only meant a few things. Now he thought about it, it was the only answer that made sense. Now he thought about it the lodge master of Novguru must have known when he sent him on this suicide quest. An easy way to get rid of their Soot Forester, a perfect excuse. He should kill Coll if he ever made it back. He imagined the surprise on the Novguru lodge's eyes if they saw him return from a pointless and deathtrap of a task.
+
+He huffed and trudged down the slopes slow, struggling to keep his eyes up, fists clenched. 
+
+It had been burnt through some time ago, raided not too long after that. Weeds were spread in its doorway and a few bones of what he assumed were fellow Takkurangs protruded from under overgrown grass outside the longhouse. It was pointless looking for tracks, the place had long ago been stripped. A rabbit shot out from the undergrowth speeding past him up the mossy slope.
+
+He scanned the basin, empty for the most part. Inside there was still the hint of burning in the air somehow, piles of charcol and ash were all that inhabited the surviving stone walls, half of the roof had collapsed and the other half's half burnt beans looked like giving way. 
+
+Their were a mess of footsteps, passerbys he assumed from the lack of definition on their shoes and rushed markings. Thieves or spys were looking in the wrong place. All the records above ground were paper by design. Lodges kept theirs more indestructible records and goods with their Whisperers, underground. 
+
+He unsheathed his barkblade and lent it against the wall then got to work. Lifting the rubble of broken up rock and fling it over his shoulder. 
+
+He had the refuse cleared by nightfall, exhausted and covered in sweat, moon balm under his eyes. Far off an untasked wolf howled. 
+
+He dragged his hand across the revealed floor until he found the uneven floor board half bent from the collapsed stone. He leveraged it with a knife and yanked it free. He felt a promising drift of stale wind come up from the gap. The entrance was only to deaigned to be accessable by the whisperer below. It took more work than the hiking and the clearing. Planks were scattered behind him, his fingers splintered and bloody. He had been given a task if he didn't come back with answers what was the point of this miserable quest. 
+
+The climb down was easy enough holes had been dug into the walls for purchase. He tore off a rag from his sleeve and plugged his ears. Exhausted, he took his time.   
+
+Two skeletans in druid cloaks lay at the bottom in brotherly embrace. He assumed they starved rather than burnt. Old but still wafting bitterly. They were surrounded with clay tablets of the lodges missions as well as chests of donations of coin.
+
+The records were cyphered, translating them all with his lack of practice would take a season so he looked for the most recent dated. 
+
+It was clasped under bone hands. He gently removed the whisperers arm and it fell to pieces. Across the list of cyphered text was a large clear message in the common tongue chiseled by the blind men in what looked like a messy hurry. He read it over and over. And each time he read he wondered if the whisperers had lost their minds down here.
+ 
+
+'Cave has been comprimised can no longer speak to the otherside. Summer 401, protect the nymph, task overides others, meet arranged at Curtalis River bend 5 days before the equinox Summer 402 instructions to follow at meet. Requested force: 40 men- Entire lodge minimum. Equipment required: All. Required funds: Entire treasurary. Urgent. Overrides all other tasks. Abandon all other tasks and guideship upon this notice. If found by my brothers know the king of Minloa has ended us before we can spread word to northern lodge. The lodges of the South have stopped communication for some time, assume the worst. Priority will remain, gather all forces with haste and protect the nymph, times of import are upon us, times of a terrible ending. Move with all haste do not seek vengence. Nothing else matters. Protect the Nymph and be his Takkurang or all else is lost. Identity phrase Wooden Star. I pray to Karhu you read this and set out in full force to meet point. I lived by life with noble suffering I am at peace going to the other side, save this realm and all those that still breath the might of all the lodges must rise'
+
+'Fuck' he whispered in the deep.
+
+
+
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:55:54 : College Student LF for VA Job : LifeOwl269 : https://www.reddit.com/r/VirtualAssistantPH/comments/1iw8j8a/college_student_lf_for_va_job/
+
+  
+**Part-Time Virtual Assistant Available**  
+ 
+
+Are you looking for a reliable and tech-savvy Virtual Assistant? I’m a 4th-year Manufacturing Engineering student at Pamantasan ng Lungsod ng Maynila, seeking a part-time VA role to leverage my skills and support your business needs. Here’s what I bring to the table:
+
+* **Proficient in English:** Excellent typing and communication skills, comfortable interacting with clients from the UK or US.
+* **Tech-Savvy:** Highly skilled with computers and technology, adaptable to new tools and systems.
+* **MS Office Expert:** Proficient in Microsoft Office Suite (Word, Excel, PowerPoint, etc.).
+* **Editing and Design Skills:** Experienced in Canva and Adobe for creating visually appealing content.
+* **Advertising and Research:** Capable of conducting research and creating effective advertising media.
+* **Flexible Availability:** Open to full-time or part-time work, adaptable to your schedule.
+* **Critical Thinker:** Strong problem-solving skills with a focus on work ethic, integrity, and professionalism.
+
+Ready to contribute to your team's success! Let's connect and discuss how I can help you achieve your business goals.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:56:11 : Perdue dans ma vie à 30 ans. : Dazzling_Front663 : https://i.redd.it/n2p2r5deovke1.jpeg
+
+J’ai un bac+3 un peu « inutile » dans le sens où je ne sais pas faire grand chose grâce à ce diplôme. Je pense que la plupart des gens peuvent faire la même chose en suivant des cours en ligne gratuitement. 
+
+J’ai du des emplois qui n’ont rien à avoir avec mes formations : 
+- Photographe (j’aime l’aspect créatif mais je suis une introvertie qui déteste être au contact des gens)
+- Marketing Digital (je déteste le sens / l’objectif des missions liées à ce job)
+- Recrutement (sûrement le job que j’ai le plus apprécié car les échanges se font à distance par tel ou Visio et sentiment d’être utile / aider MAIS environnement concurrentiel entre les employés, demandes plus ou moins racistes des clients et objectifs à atteindre qui me rendent trop anxieuse : j’ai terminé par faire un burn-out après être passée responsable du département francophone)
+- Chargée de clientèle : j’étais un robot. 
+- Cinéma : Milieu particulier dans lequel ça me convenait (beaucoup de changements, j’aime ça, stimulant et tâches variées) mais il faut être à paris et cette ville me fout la nausée.
+- Barmaid : j’ai envie de pleurer au bout de deux jours de travail tellement la clientèle est insupportable.
+- vendeuse : idem que barmaid 
+- location ski/surf : ennuyant..
+- free-lance graphiste : clients qui ne me paient pas en plus d’être difficiles à trouver étant donné la concurrence en ligne. Créativité endormie car trop de contraintes à respecter dans un cahier des charges, donc aucun plaisir dans la mission.
+- free-lance monteuse vidéo : je n’ai jamais réussi à trouver un client à part pour une association donc j’ai fait ça gratuitement
+
+En ce moment je fais un bilan de compétences mais je n’ai pas l’impression d’avancer.
+Pour l’instant ce qui en ressort : profil investigateur / social / artistique 
+
+J’ai songé à art-thérapeute, infirmière ou journaliste reporter en free-lance.  Ou carrément lancer ma chaîne YouTube mais j’ai peut-être loupé le coche puis même si ça fonctionne, je ne vais pas avoir des revenus du jour au lendemain.
+
+J’sais pas si vous auriez des pistes pour moi ? Des sites à me recommander ? Des idées de stages ? 
+
+Petit aperçu d’une partie de mon CV 
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:56:08 : How would you approach these results? : BigBirdPaints : https://www.reddit.com/r/Hypothyroidism/comments/1iw8jcr/how_would_you_approach_these_results/
+
+I will preface this by letting you know that I am dealing with the UK NHS where being your own advocate is basically essential. 
+
+(31f) I have had two sets of bloods done recently: 
+
+28 Jan 2025
+Pathology Investigations
+Thyroid function test
+Serum TSH level 6.32 mu/L [0.27 - 4.2];
+Outside reference range
+Serum free T4 level 12.4 pmol/L [10.0 -
+21.0]
+Serum thyroid peroxidase antibody concentration: Positive
+
+19 Feb 2025
+Pathology Investigations
+Thyroid function test
+Serum TSH level 5.62 mu/L [0.27 - 4.2];
+Outside reference range
+Serum free T4 level 10.6 pmol/L [10.0 -
+21.0]
+
+Thanks to this great sub and how knowledgeable you all are I could see that my first results suggest I have hashimotos at a subclinical level. 
+
+Initially I had seen a very good GP who unfortunately retired in between my blood test and follow up, when I returned I found myself with the senior practice nurse. It got off to a rocky start when she asked me why I was there and I pointed out that I was told to make an appt based on my results. To be fair to her, she was very experienced and knowledgeable thereafter, everything she said after that point I couldn’t fault but I could feel she was resisting giving me a prescription. 
+
+I initially sought help because I have gradually been developing fatigue, muscle aches and weakness like I’m wearing chain mail weighing me down, intolerance to cold, Raynauds and carpal tunnel. Brain fog, slow thought, memory issues, dry hair and I think my mood is suffering, apathy and discontentment setting in. 
+
+This time last year I was working part time during the daytime as a handywoman and part time in the evenings managing a bar. It was a lot on the body! I had to stop working for myself last December, figured I was either burning myself out or I was ill. But I am struggling now to keep up with just the one job.
+
+Thyroid issues are on both sides of my family history, both grandmothers, multiple cousins and my mum who my symptoms mimic when she was seeking diagnosis. 
+
+Back to the nurse appointment: I mentioned two things that I thought might help my cause (I want the meds, I need to feel better and sort my life out) 1/ when I had the first set of bloods done I was having a really good couple of weeks! I practically tap danced into the phlebotomists office! I’d even started couch to 5k! But 2 weeks later I was back on the couch aching again. Nurse said okay, there’s a cancellation for bloods tomorrow let’s capture how you’re feeling now - great. 2/ I mentioned that when I was a child I’d told my mum I had a lump in my neck, which is my thyroid and it has been the same all my life. She had taken me to a doctor who had berated her for using an emergency appt (back then before google I think we thought cancer) I couldn’t remember exactly what happened but we were told there wasn’t an issue. Present day, the nurse looked at my medical history and found that my thyroid was tested then (2003) and I had a TSH of 8.0! I’m in the process of requesting all my records from that year to see how this could have been justified as satisfactory. 
+
+Nurse now palpated my thyroid I’m now waiting for an ultrasound appointment. 
+
+I got a call following my second blood test from a cheerful secretary, ‘congrats it looks like your TSH has improved from your last test!’ Not what I was expecting, I feel like sh*te. I look on the NHS app and it shows that my TSH has crept down but my fT4 is only just within range! Why is no one looking at that?! In hindsight it seems obvious the TSH would go down because my T4 had been okay, but look what’s happening when the TSH drops so does the T4 
+
+I now have to wait 3 weeks for another appointment to discuss this an make my case, now I know that I’m not well I’m so impatient to get something sorted. Plus this whole 2003 thing has me thinking, damn have some things I thought were just me (always a little overweight, ADD/hating mental work, suffering after doing exercise) could have been an almost lifelong thyroid issue?! 
+
+Thanks for reading if you got this far x
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:56:04 : Got caught up to 1000th episode of the series : Secret-Comedian-9905 : https://i.redd.it/ko6j87jdovke1.png
+
+Hell yea 
+Soo just sharing this lol, this feels like an achievement. I started the Journey back in May 2023, and now ihavent even catchup fully lol but catching up to 1000eps feelss soo good, I reduced my anime time last year due to studies but yea I'm glad I didn't rushed catching up and almost it had been like 2 years now and i enjoyed the journey so much and look forward to moreee. Thanksss One Piece, thankss Oda.lts the besttt dude, the storytelling is insane and like best out there idont even have words to describe the masterpiece.
+
+THE ONE PIECE IS REALL! 
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:56:13 : Novated lease - car in joint names : Vivid-Object-139 : https://www.reddit.com/r/AusFinance/comments/1iw8jel/novated_lease_car_in_joint_names/
+
+So my leasing company told me my novated lease vehicle needs to be in my name rather than in joint names. I communicated this to the car dealership last week. But when we picked up the car, the registration had been transferred to us in joint names. It's an ex-demo vehicle so was already registered.
+
+We prefer joint names but thought it was not possible with a novated lease. Should I get the dealer to change it to my name? Will the lease company become aware of this? Downsides or risks with leaving it as it is?
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:56:13 : Repost of my OC (For a crossover AU btw) : Odd-Hair2715 : https://www.reddit.com/r/FundamentalPaperEdu/comments/1iw8jek/repost_of_my_oc_for_a_crossover_au_btw/
+
+Context:
+Captain Matvienko is a tank commander and captain of a tank unit which was assigned to be stationed in the Paper world, he was assigned by a secret branch of his nation's government to be a part of secretive interdimensional military operations with his goal being to patrol the military occupation zones in the Paper World from any anomalies, his tank unit often gets into skirmishes and assault operations with anomalous beings (and by beings I meant categories of paper beings similar to Fen and rarely, Alice), although his unit sometimes get into tank battles between local Paper military forces, his orders are to best serve the interests of his nation.
+
+Appearance: Captain Matvienko is a tall, pale-skinned and slightly bearded man with his hair bangs lifting up, he wears a full gear of graphene-coated power armor and is equipped with an electrothermal chemical propelled assault rifle.
+
+Personality:
+Captain Matvienko was described by his fellow comrades that he behaves like a protective father to his men, often caring for them personally and in certain situations that he also seem to have a parent-like attachment to them especially with the younger members of his unit, he has a demeanor of a habit of calling his lower ranks as "son", "kid" and "boy", although his demeanor makes him look fierce, alert and serious, on the other side he has a more softer side of himself.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:56:13 : Blue Collection Mini Reviews : scharkz24 : https://i.redd.it/6rxgnnbeovke1.jpeg
+
+Hi guys, I thought to mini review my blue fragrance collection since I have decided not to pause my collection since this year (not really). Although i return/sell the ones I do not like, and these are all the ones I love, I will try and arrange them from the order of most liked to least (with ratings).
+
+
+**1. Bvlgari Aqva Atlantique:** this is a masterpiece of a blue fragrance, to me it has a certain balance and depth with a certain appeal that is missing in most other blues; why this was discontinued is beyond me. Beast mode performance for a blue. **(9.5/10)**
+
+
+**2. Lattafa Atlas:** acquired taste, very bold and commands attention, for me this DNA is the epitome of a proper marine fragrance, something what Poseidon would wear. Absolute beast mode, probably the strongest of all in the list. **(9.5/10)**
+
+
+**3. Mancera Aqua Wood:** very unique and pleasing, its a proper niche take on the usual blue DNA, mixing some fruity and floral rose aspect and darker base. Almost beast mode performance, just not huge on projection. **(9/10)**
+
+
+**4. Issey Miyake Le Sel D'Issey:** the most pleasant marine aquatic, very uplifting and a more wearable oceanic fragrance compared to Atlas for example; absolutely love the scent profile - simple but unique. Great performance, airy and pleasant but very evident. **(9/10)**
+
+
+**5. Kenzo Homme Marine:** again a very pleasant marine aquatic but with that creamy sun-tan lotion vibe, balances the oceanic feel with that creaminess and sandalwood perfectly, very unique Kenzo DNA. Almost beast mode performance. **(9/10)**
+
+
+**6. Missoni Wave:** creamy aquatic and the epitome of summer holiday fragrance, puts me in a happy mood everytime i wear, I personally associate it with summer vacation by the beach. Great performance for a scent profile like this. **(9/10)**
+
+
+**7. Ahmed Al Maghribi Aqua Oud:** the best clone of AdG Profumo, love that mature/bold take on aquatic profile and a perfect daily driver. Almost beast mode performance. **(8.5/10)**
+
+
+**8. Ahmed Al Maghribi Blue by Ahmed:** best clone of BdC and has that certain appeal and depth with the zing associated with BdC, simple but damn good. Great performance, better than the OG. **(8.5/10)**
+
+
+**9. Al Haramain Aqua Dubai:** the best imagination dupe for me personally, to be honest I am not a fan of this DNA as its too simplistic and soapy for something so expensive, but this one here is perfectly balanced and pleasant. Beast mode performance. **(8/10)**
+
+
+**10. Le Chameau Desert Angel Blue Night:** a very unique minty fresh citrusy musky fragrance, supposedly a clone for Blue Moon Ginger Dash By Kilian, super underrated and much better than the Imagination DNA by far. Good performance but I wish it projected slightly more. **(8/10)**
+
+
+**11. Swiss Arabian Pure Instinct:** like a mix of all famous blues and a swiss army knife of blue fragrances, can be used anytime anywhere for anything, but can be slightly boring as this is nothing unique. Beast mode performance. **(7.5/10)**
+
+
+**12. Armaf CDN Milestone:** a unique fruity salty and metallic marine fragrance, smells like an expensive resort by the beach or a brunch on a yacht, something old money would be associated with. Almost beast mode performance. **(7.5/10)**
+
+
+**13. Rochas L'Homme:** a greenish blue fragrance with a certain creaminess, quite unique for a blue but I consider it an imposter among blues, more like a fougere; but I love for what it is. Good performance but I wish it was a little stronger. **(7/10)**
+
+
+**14. Rasasi Ibreeze:** now this is among my newest purchases and I am not too keen on it, it is a usual aquatic fragrance that is a little close to normal Bvlgri Aqva, nothing too great but not bad either; might change my mind once it matures a little or it would end up getting sold off. Good performance. **(6.5/10)**
+
+
+Feel free to ask if you want a more detailed review of any of these.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:56:12 : Why Dubai Real Estate Is the #1 Investment Opportunity in 2025: Here’s What You Need to Know! : TheDubaiInvestor : https://www.reddit.com/r/RealEstateCanada/comments/1iw8je4/why_dubai_real_estate_is_the_1_investment/
+
+Hey everyone! 👋
+
+I’m excited to kick off this journey with DubaiInvestorHQ — your go-to source for everything related to real estate investment in Dubai! As we enter 2025, there’s no better time to take a closer look at why Dubai’s property market continues to outshine global alternatives. Let’s dive into why it’s the #1 investment opportunity for both first-timers and seasoned investors.
+
+
+🚀 1. Explosive Growth in Key Areas
+
+The city’s iconic developments, such as Expo 2020’s legacy projects and major infrastructure upgrades, continue to drive high demand in prime areas like Downtown Dubai, Dubai Marina, and Palm Jumeirah. If you’re aiming for capital appreciation, Dubai remains one of the most attractive global real estate markets.
+
+💸 2. High Rental Yields – A Passive Income Goldmine
+
+With rental yields reaching up to 7-9% in areas like Business Bay and JLT, Dubai offers some of the highest returns for real estate investors compared to other major cities worldwide. For anyone looking to generate steady cash flow, these areas are goldmines for high rental demand.
+
+🏠 3. Government Incentives &amp; Long-Term Visas
+
+The UAE government has introduced long-term visas for investors, offering benefits like 100% foreign ownership and stability in property rights. Plus, new regulations in 2025 make Dubai even more appealing for international buyers. These incentives make it easier than ever to invest in your future.
+
+🌍 4. A Global Hub for Investors
+
+Dubai isn’t just a top vacation destination; it’s a business and cultural hub that attracts investors from across the globe. This diverse ecosystem creates a dynamic, growing market where foreign investors are consistently seeking opportunities, boosting demand and property values.
+
+⚠️ 5. Do Your Due Diligence: Navigating Risks
+
+While Dubai offers incredible opportunities, it’s crucial to do your research. From choosing the right location to working with reliable developers, due diligence is key to making smart investment decisions.
+
+
+🤔 So, What Are You Waiting For?
+
+Whether you’re looking to invest in residential properties, commercial spaces, or explore off-plan developments, Dubai’s market holds incredible potential. With the right strategy, it’s possible to capitalize on the growth of this city and build long-term wealth.
+
+TL;DR: Dubai offers top-tier investment opportunities with high rental yields, government incentives, and explosive growth in prime locations. It’s time to consider Dubai as your next real estate investment destination.
+
+Feel free to ask any questions or share your experiences in the comments! Looking forward to engaging with you all. 🙌
+
+ #DubaiRealEstate #UAEInvestments #Dubai2025 #RentalYields #PropertyInvestment #RealEstateInsights
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:56:11 : 45 [M4R] #New England  #online - new to reddit looking to chat : Party_Steak_1363 : https://www.reddit.com/r/r4r/comments/1iw8jdw/45_m4r_new_england_online_new_to_reddit_looking/
+
+Hello. How goes it? I live in New England. I work from home most of the time and have occasional free time to chat.
+
+In my spare time, I like to get outdoors and hike, bike, and work on my house. I enjoy going to the beach and hanging out by my pool. I like most music, but preferably indie or alt rock. I also enjoy reading in my spare time. And I watch tv. Just started the new season of The White Lotus. 
+
+I like to keep things to the point when posting. So if any of this catches your eye feel free to message me. Please be somewhat local to me if you’d like to chat (east coast USA, NS CA, etc.) Thanks and hope to chat soon. 
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:56:24 : "As Is" Ninja SLUSHi Professional Frozen Drink Maker - FS301 is in stock at QVC for $225.00 (MSRP) (originally $299.00) : TrackaLackerBot : https://www.reddit.com/r/NinjaKitchenRestocks/comments/1iw8jhw/as_is_ninja_slushi_professional_frozen_drink/
+
+View current status at [https://www.trackalacker.com/products/showcase/ninja-slushi-professional-frozen-drink-maker-fs301...](https://www.trackalacker.com/products/showcase/ninja-slushi-professional-frozen-drink-maker-fs301?notification_id=yfjH235A7D3WfYEvb0j2dutx--rQNg9gJnyOKHJ4L9--s3GxmIdi2JePC6dlHjhaEw%253D%253D&amp;utm_campaign=stock-update&amp;utm_medium=social&amp;utm_source=reddit)
+
+
+
+As of 02/23/25 06:56 AM EST
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:56:30 : Free stuff - original formula balm dot com : Few_Valuable_7765 : https://i.redd.it/924ea2bgovke1.jpeg
+
+I was clearing out my drawers and found a load of original formula balm dot com. They’re all a few years old and have varying levels of use. If anyone wants them they’re free but you pay postage. I’m located in the UK so prefer to send them to someone else in the UK. 
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:56:42 : Do I need to travel further? : ZeroKira1500 : https://www.reddit.com/r/VintageStory/comments/1iw8jnv/do_i_need_to_travel_further/
+
+I been stuck looking for lime, it is limiting my ability to make leather and my spawn location has Granite and andesite. so do I need to travel for lime stone mission or any other way around it?
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:56:49 : Products I wouldn’t repurchase VS I would : Electrical_Web7621 : https://i.redd.it/hkhxe4eiovke1.jpeg
+
+I’ve done this before but I wanted to update it
+
+Skin type: incredibly dry and sensitive. Skin barrier is prone to damage if not careful 
+Skin problems: patchy, flaky, dry skin. redness on cheeks and forehead/whole face. Dark under eye circles. Very very minimal acne on occasion. No texture, doesn’t struggle with creasing.
+Make up preference: i wear make up 4/5x out of the week.I like an extremely light weight concealer that isn’t FULL FULL coverage cause I like a no make up kind of look since it’s for everyday. My main concern is just covering up redness and any small marks/discoloration and evening out my skin tone. I hate a dewy look and dislike a satin look, I just don’t like any shine/glow
+Skin tone and color: I’m considered a light and I’m neutral but warm leaning 
+
+1. nars light reflecting setting spray: it’s meant to be hydrating which is why I got it but the one time I used it and went out I felt like I looked horrible/it made my makeup look weird??? Maybe cause it was a satin finish and I like matte? That was months ago tbf I barely rmbr and I will use it when I run out of my current trusty elf (black bottle)setting spray to see if I like it again but yeah for the price and that I have way cheaper alternatives I’ll def pass
+2. Nars concealer (shades Madeline and vanilla): first of all are we rationing out here? What’s going on with the amount of product ur getting compared to how much ur paying for??? The mini is such a joke!!! A lot of ppl on tik tok were saying this is the #1 concealer but honestly it’s perfectly average like there’s nothing particularly astounding and magical about it. Ik some ppl found it drying but for me it was fine I think? There’s such an enormous amount of concealer options I just don’t believe this is liquid gold like influencers on tik tok say it is.I def don’t reach for this anymore after using it a few times and the price compared to the amount of product?? Not in this economy. Better and cheaper alternatives fs
+3. Charlotte Tilbury contour wand shade fair??: first of all $42???? I only got this cause it was trendy on tik tok… why tf influencers gotta be lying to my face like this 😭 dries down way too fast making it hard to blend and the dot turns out patchy/splotchy and u can see the outline of the circle no matter how much u blend I swear. Color is so extremely dark for “fair” and I personally like a slightly sunkissed warmth to my face so I don’t look dead look not a noticeable bronzed/tanned look. And I did in fact accidentally not lock it and it kinda got every where in the cap. I’ll laugh in ur Face if someone ever genuinely recommended this when there’s so many cheaper alternatives 
+4. Laura mercier hydrating primer: so it did feel rly nice and hydrating when I put it on it didn’t feel greasy. But the dry patches STILL showed through HOWEVER TBF I didn’t have a skincare routine when I used this so I’m sure it’ll look better if I use it now but the reason why I wouldn’t buy it again is cause I have a cheaper alternative 🤷‍♀️ I do have to say tho it did feel nice and hydrating!
+5. Refy blur and hydrate primer: I liked the feel of it but it didn’t feel moisturizing as it felt thin and same w Laura mercier, dry patches still showed but I didn’t have a skincare routine when I tried this so the result could be different. Idk if I can say it really blurred anything either.. has anyone tried this primer? As I said I have a cheaper hydrating primer alt so I wouldn’t buy this again
+6. CT spray: okay before I get jumped.. it just didn’t impress me compared to my trusty $6 elf spray!!! I also noticed a lot of times when I used this my face immediately felt so TIGHTTTT and idk why??? I do use this before I put on powder sometimes I’m sure it melts my make up fine and all but it just did not impress me esp for the price. I barely used it I swear and I’m almost done already with it. Ppl say this holds their make up together amazing whether it’s in certain weather or activities or just daily wear but like I said my elf spray does the job too. I also don’t use this after powder cause I hate anything slightly glowy
+7. Ole henrikson cc sticks peach and banana: for the price there’s barely any product I feel like it gets used up fast too. My friend said she noticed dark circles improvements in just a few days but I didn’t (tbf I sleep at 6am every day). It’s also SOOOO PATCHY no matter what eye moisturizer I used it was ALWAYS patchy it looked so bad and separated so easily just absolutely not.
+8. Gisou lip oil in cherry on top:  liquidy and thin formula. This formula seems to make the lip oil just start gathering towards the bottom of my lips if that makes sense??? 😭 It doesn’t apply evenly and I feel like it REALLY seeps into my lip lines even tho I never have that problem. It also doesn’t last at all I swear it starts fading in 30 minutes. 
+9. Summer Fridays balm in cherry: it’s just nothing special 💀 
+10. YSL candy glaze lip gloss stick (shade 1)and candy glow balm(shade 5B): just didn’t impress me especially the candy glow balm although I love their love shine lol
+11. Dior addict lip glow 007: very drying I can’t even swipe it on my lips smoothly cause it’s so dry and when I put it on my lips look dry it doesn’t feel moisturizing AT ALL like wtf??? 
+12. Glossier balm mango: it’s okay it’s nothing special it’s just Vaseline basically. Ppl say they had problems w the formula being weird and oily but mine hasn’t done that so far had it for a few months it’s just a basic lip balm
+13. Tarte lip vinyl lotus: VERY GOOPY and stringy!!!! If u especially don’t exfoliate ur lips beforehand and u have dead/peeling skin good luck it’s gonna be a sticky goopy stringy mess!!!!! Absolutely NOT. 
+14. Make up Mario contour stick medium: nothing special I wish it blended out faster but that’s it really there’s just nothing special for me to want to repurchase it when I have a cheaper alternative 
+15. CT powder: I’ve noticed this makes me slightly orange when I put it on (I did a side by side comparison) and it’s  blurring/smoothing is decent. I feel like it doesn’t hold up my make up that well.. esp for the price it’s just mid even tho ik everyone swears by it. 
+16. Huda beauty in poundcake and Laura mercier powder translucent : don’t get me wrong these were nice but because my skin is the way it is these just made my skin look and feel so so so so so dry and look cakey and crusty even tho I would apply as little as I could. It made it look like make up was just SITTING on my face yk?? (BTW I USE LANIEGE NEO BLUR HYALURONIC ACID POWDER since none of my other powders work, so natural yet matte so smoothing and blurring feels so good and it lasts all day, doesn’t make my face feel dry. I’m unsure if Sephora carries this specific product)
+
+PRODUCTS ID REPURCHASE
+
+1. Sephora collection Glossed 10wild: it’s so pretty it feels nice on the lips and for the price hell yeah!!!! Underrated asf
+2. Sephora collection lip plump gloss shade 7: same review as the Glossed one!!!
+3. Tower 28 hydrating concealer shade DTLA: i like how it feels it obv doesnt feel drying I love the more watery formula compared to the ones I’ve tried it’s so easy to swipe on and blend and for the price?? Yes!! This is my main concealer I don’t see why I’d ever need to switch
+4. Haus labs blush hibiscus haze: I LOVEEEEE THE COLOR SO MUCH OMFG it’s so perfect?? I have a tendency to accidentally go heavy handed on powders and most blushes on the market are so high pigmented but that just doesn’t work for me cause I’ll look super crazy. But this blush is very buildable and the pigment prevents me from overdoing it by accident which I appreciate so much. 
+5. Laniege lip balm berry:I literally bought this in another shade since I’m half way done. This feels so good and moisturizing on my lips and it lasts hours like my lips just feel so so good!!! And the gloss isn’t sticky and heavy it’s perfect. However the color is pretty sheer if that matters to anyone 
+6.  Dior lip maximizer shade holo pink: (this particular color i use as a topper) I have 5 of these… these look so good and I gotta say I would repurchase these!!! They feel good they look good ik ppl say the applicator is tiny but I can apply a perfect even amount with just a few swipes
+7. Dior lip oil shade berry: these feel and look SO FREAKING GOOD I love these so much it’s one of my main lippies I have been loyal too since day 1. However I’ve noticed these seem to turn a brighter/cooler pink after a few mins of application I think it’s to match ur ph even tho it doesn’t specify that on the website??? That’s my biggest woe for sure but I would still rebuy
+8. Laniege hyaluronic acid cream moisturizer: gave in to the hype and it does feel good but if ur skin is intensely dry def try their intensive cream and I would repurchase these bc ik they have this at tj Maxx for $20 LOL. This does have a fragrance but it’s not strong but I wasn’t expecting it cause why fragrance in skincare lol but my damaged skin barrier had no reaction to it so yay
+9. YSL blush shade 93: SORRY LMFAO I ACTUALLY WOULDNT REPURCHASE THESE simply cause of the price 
+10. YSL love shine lip oil stick shade 44: I have 5 of these they apply soooo freaking smooth and it feels moisturizing and not dry I love how it feels on my lips. This particular shade looks really diff on me/pulls off cool toned than the model pics which I found disappointing. My everyday shade is 209! 
+11. YSL bronzer: THE TIK TOK INFLUENCERS WERE RIGHT FOR ONCE THIS IS THE BEST CREAM BRONZER IN THE WORLD there is simply no competition. At first I was intimidated by the color but it blended out BEAUTIFULLY and SOOOOOO quickly i was genuinely impressed and I rarely ever am!!! Absolutely amazing product so creamy and insanely affordable YSL deserves more love I also have their highlighter 
+
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:56:46 : Those with nieces and nephews under 18, how do you approach speaking about veganism? : Empty_Code_8664 : https://www.reddit.com/r/vegan/comments/1iw8jpd/those_with_nieces_and_nephews_under_18_how_do_you/
+
+My niece is 16 years old and I’m somewhat close with her. I see her a few times a month and we do things together with the rest of the family. Her parents and the people that she lives with eat the standard American diet. Over the last few years I’ve spoken about why I’m vegan. She has said in response that one person‘s actions doesn’t really make a difference for animals and that vegan food isn’t normal. She’s called it “woke” and refuses to try anything. She’s called bacon a beautiful thing. She does have cats and loves them a lot, but I think has put other animals likes pigs into the food category like a lot of people do.
+
+I know she has influence from her family, friends, and the media, but it’s still frustrating. I would like to help her better understand how the “normal people food” is made and the reality of how animals are hurt in the food industry, but I know she can’t really make decisions for herself because she doesn’t have a job yet and is at the mercy of her parents. I think they are the main reason why she thinks vegan food is not normal and they don’t have a lot of money, so her asking them to accommodate her is probably a no-go.  
+
+So those of you with nieces and nephews with a similar situation, how have you approached it? Are there any books or videos that you would recommend sharing? Or should I wait until she’s more in a position to be able to do something different if she thinks that’s what she should do after learning about this issue?
+
+Any advice would be appreciated!
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:56:59 : Seeking Advice on Tokenization and Funding for Real Estate and Agricultural Project : Gold-Ad5286 : https://www.reddit.com/r/CryptoMarkets/comments/1iw8jso/seeking_advice_on_tokenization_and_funding_for/
+
+Hello, Reddit community!
+
+I’m reaching out to share my situation and seek advice or collaboration on how to tokenize my assets and secure funding for a multifaceted project based in Punta Arenas, Chile. Here’s an overview of my situation:
+
+# Project Overview:
+
+I am developing a project that includes several tangible assets:
+
+1. **Wind Energy Contracts:**
+   * We have two contracts that are expected to generate approximately **$2 million annually** once they are operational, which is projected to be between **2026 and 2027**. While these wind farms are not yet constructed, they are close to breaking ground, and the revenue will provide a stable cash flow for our operations.
+2. **6-Hectare Commercial Land:**
+   * This land is located on the same site as one of the wind farms and has multiple potential uses. We plan to develop this land further once we secure the necessary permits.
+3. **Residential Complex:**
+   * Currently, we only have one house on the property, but the land itself is strategically located in the city and valued at around **$4 million**. The goal is to construct a modular building with 30 apartments to generate rental income.
+4. **Agricultural Ranch:**
+   * We operate a **10,000-hectare ranch focused solely on sheep farming**. Our infrastructure is designed for sheep, and we aim to improve productivity by enhancing pastures and ensuring better water access.
+
+# Funding Challenge:
+
+The main issue we face is that we currently have very little cash on hand—just enough to keep us afloat. We urgently need an injection of capital to move forward with these projects and improve our cash flow significantly.
+
+# Our Vision: Tokenization as a Solution
+
+We are considering tokenizing our assets as a way to raise capital while offering investors a stake in our diversified portfolio of real-world assets. The idea is somewhat similar to factoring but with more flexibility.
+
+* **Digital Tokens Backed by Tangible Assets:** Investors would hold tokens representing ownership or participation in the revenues generated by our wind energy contracts, residential complex, ranch, and commercial land development.
+* **Dividend-Based Returns:** Token holders could receive dividends from the profits generated by these projects over time.
+
+# What We’re Looking For
+
+We’re seeking advice or collaboration on the following:
+
+1. **Tokenization Strategy:** Is tokenizing these assets the right approach? Are there better alternatives?
+2. **Funding Mechanisms:** What other funding strategies could work for us? How can we leverage our existing contracts and assets to secure financing?
+3. **Collaborators or Experts:** Developers who can help design secure smart contracts for tokenization, legal experts familiar with tokenized assets, or platforms that could facilitate this process efficiently.
+
+If you have experience in similar projects or insights into tokenization and funding strategies, I would greatly appreciate your thoughts! Thank you for your help!
+
+Best regards,  
+Stipi
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:56:51 : Can you use use superglue on E6000 after its fully cured? : Wayne_Nightmare : https://www.reddit.com/r/NoStupidQuestions/comments/1iw8jr0/can_you_use_use_superglue_on_e6000_after_its/
+
+I'm making some modifications to a transformers figure, and I want to fill some hollow gaps with E6000 so I have more area for the plastic to come in contact with when I glue it in place. I'm thinking of using superglue to glue it to the actual plastic of the figure.
+
+(I know E6000 is an adhesive, but when it cures, it becomes like a gel or a something similar, so if I put it in the gap and let it cure, it'll be like using expoy or resin and fill up that gap)
+
+Then I was gonna use superglue on the area. Will it work or will something go bad and destroy the gel stuff?
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:57:06 : MDC online admission application - submission of documebts : Hot-Wafer-8950 : https://www.reddit.com/r/upou/comments/1iw8jv2/mdc_online_admission_application_submission_of/
+
+Hi po sa lahat. May questions lang po ako. Nag submit na po kase ako ng application online sa upou. Nagupload na rin po ako ng files doon. Sabi sa email, need ko daw isubmit hard copies doon sa UP mismo through courier. Ang questions ko po ay:
+
+1. Need ba original copies lahat (diploma, tor, NSO birth cert, etc.?
+2. Ung unfinished masters TOR ko po ay nasa sakin pero for job purposes lang. hindi ung pang transfer ng skul. Okay lang po ba ito muna ipasa ko as hard copy and to follow nlang ung original na tor pang transfer ng skul?
+
+Thanks po.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:57:20 : 35M looking for people who don't judge, who I can really be myself with. : SourceM89 : https://www.reddit.com/r/MakeFriendsOver30/comments/1iw8jzh/35m_looking_for_people_who_dont_judge_who_i_can/
+
+Hi! I am an Italian guy who loves videogames, metal, beer, nature, cats, sea, WWE and more. 😊
+
+I'd like to find a friend who I can be myself with, without judgement, even to talk about our fears why not.
+Something that have good vibes and where you can speak about what you want without any problem.
+
+Possibly a girl because I am missing that side and I feel the need of a girly vision of things, to have differents perspectives and advices that aren't the "usual manly advice", since I already have like 10+ male friends and not a single girl-friend. (I am a lot shy with girls, so it's pretty hard for me to knew one, I am working on that 😅)
+I am living a chaotic situation on the romance side, and an opinion, or even just a listener would help a lot. 
+
+I am living a chaotic situation on the romance side, and an opinion, or even just a listener would help a lot. 
+
+I am sorry if my english isn't perfect, I try my best. 🙈
+
+Of course I am looking for something long-term and that doesn't end in being ghosted.
+Sadly these days I have a bit less time because of work, but I am still trying to manage all out! 
+
+Feel free to DM!
+Thanks for have spent your time reading this!
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:57:19 : US Teachers - Could you share past exam examples? UK parent trying to show daughter what American teens study : Extreme_Driver_4040 : https://www.reddit.com/r/AskTeachers/comments/1iw8jyz/us_teachers_could_you_share_past_exam_examples_uk/
+
+
+Hi everyone!
+
+I'm a parent and teacher from the UK, and my daughter is currently preparing for her GCSEs (our national exams taken at age 16). She's really curious about what high school students learn in the US, and I thought it would be fascinating to show her some examples of what American teens study at the same age.
+
+Would any teachers be willing to share examples of past papers or final exams that your students take? We're particularly interested in core subjects like English, Mathematics, Science, and other subjects in particular Geography /History. It would be amazing to show her the different approaches to education across the pond!
+
+I know every state has their own system, so I'd love to see examples from any region. If you're able to share. 
+
+Of course, I'm only looking for materials that are okay to share publicly - nothing current or confidential!
+
+This would be such a great learning experience for my daughter, and it might help her put her own exam prep into perspective.
+
+Thanks in advance! 🇬🇧🇺🇸
+
+Edit: Just to clarify - we're interested in regular high school exams, not AP or IB tests.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:57:13 : Heat shield rattle . Concern? 2008 Prius : Heavy-Stable5052 : https://www.reddit.com/r/prius/comments/1iw8jxg/heat_shield_rattle_concern_2008_prius/
+
+2008.
+Noisy rattle 
+I have a CAT  shield installed but I can faintly see this aluminum sheet metal rattling near the upper engine area (probably a heat shield?)
+
+If I poke it with long stick it stops. Should this be a concern? 
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:57:29 : Copying decision tree answers : Sorry_Debate228 : https://www.reddit.com/r/servicenow/comments/1iw8k23/copying_decision_tree_answers/
+
+We have implemented the Guided decisions application and are working with Decision trees applied to Recommended actions in the Service Operations Workspace for incident management (Washington). The business requires to copy the answers given in the decision tree and paste them to the work notes, instead of having to open the side panel history. This would allow to see questions and answers in the classic UI rather than having them only in the history panel which is quite hidden (there is no indication that the action was already completed unless you actively look for it in the history). I cannot find where the answers are stored, and I'm open to suggestions on how to complete this task!
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:57:27 : No, That's Awful. Chapter 30-34 Spoilers : Defiant_Owl_1435 : https://www.reddit.com/r/NikkeMobile/comments/1iw8k1h/no_thats_awful_chapter_3034_spoilers/
+
+1. So you actually fight/encounter Behemoth a total of 10 times, and she doesn't actually manage to kill anyone in any of those fights/encounters.In the first fight when Behemoth tries to take the coffin from Grave, Super Saiyan Rapi gets dunked on, and Eunwha commands Absolute to create an opening so she can shoot Behemoth in the knee. I'm fine with this one, because Behemoth is playing around with them at this point, and doesn't actually care about defeating them.
+
+2. In the second encounter, while trying to recover the coffin from Behemoth, she surrounds all the characters (main character, Absolute, Counters) except Grave in crystal, and promises to kill anyone who talks out of line. Which is strange because she already knows that Grave is the only one with the information she needs, so her insistence on interrogating these guys is weird. She could have just said she wanted to talk, no coffin talk involved, but she specifically wanted to interrogate them.
+
+But then she proceeds to do absolutely nothing, even as the main character has an entire chest gag with Eunwha, she throws him the disk, he throws the disk outside the crystals, then shouts at Mana to activate the stake, then the stake flies and lands, and ONLY after the stake begins destroying the crystals is Behemoth allowed to react because she just forgot to stop the characters from doing... everything they did in that awfully written scene. 
+
+Then, to add fuel to the fire, the characters shoot Behemoth in the stomach to immobilize her at the main character's orders, even though the main character saw Dorothy walk off a stomach wound with ease two weeks ago during the Reclamation Site 01 battle. HE ALSO KNOWS BEHEMOTH'S WEAKNESS IS HER KNEE JOINTS, BECAUSE HE JUST SAW EUNWHA TEMPORARILY IMMOBILIZE HER EARLIER. Do that but with more bullets! But no, he shoots Behemoth in the stomach, where she has a concentration of the black goo that he himself thought was a defense mechanism. What a genius. And Eunwha praises him for this dumpster fire too. And Rapi and Grave have a casual multiple minute long conversation before fleeing, because Behemoth just gets completely forgotten.
+
+3. The third fight is the one where Behemoth launches off the building and annihilates everyone except for the main character and Grave. She spears Eunwha with crystals because she isn't playing around anymore, except then she just oneshots Super Saiyan Rapi along with everyone else without bothering to kill them, and then Behemoth flees with the coffin again. The main character and Grave then proceed to carry six unconscious Nikke to safety, even though that shouldn't be possible since Grave would be carrying five of them, and she doesn't have the wingspan for that. The power? Yes. The literal arm capacity to carry five bodies? No. Also, the main character couldn't have carried two Nikke, because he was already struggling significantly with only one Nikke. If you struggle to carry something, you cannot then carry something that weighs as much, or even half as much, because that's going far over your weight limit.
+
+Behemoth then conveniently forgets to take Grave with her, and Leviathan says she's coming over because she's sick and tired of Behemoth's loneliness schtick getting in the way of their plans. This one will be important later for fight six.
+
+4. This is one of the justifiable ones. The smokescreen Stake Attack was overcomplicated, but it actually made sense why it worked, even if taking Behemoth's clamp out was somewhat unnecessary, and having the main character hit Behemoth with the clamp was an unnecessary risk.
+
+A better version of the plan is that Super Saiyan Rapi rushes in the moment the smokescreen goes off, and Mana fires the stake preemptively, so the moment Super Saiyan Rapi hits Behemoth with the disk, the stake impales her. If you want to destroy the clamp? Do the same thing, but Super Saiyan Rapi goes after the clamp, and another Nikke handles slapping Behemoth's stomach with another disk. Then she gets double penetrated in quick succession, without being able to properly react. No need to do the extra rigmarole where everyone except the main character runs out of the smokescreen, and then the main character slaps Behemoth with the stake because she... would somehow completely forget about him when she sees he's the only one that didn't run out of the smoke.
+
+  
+5. The fight after the Glass Container boss. Behemoth goes berserk this time, and doesn't hold back, except she does a little bit. She ragdolls everyone, impales the main character in the stomach, and cuts Vesti in half. But she never actually manages to kill anyone, despite the fact that it's stated that she immediately goes head to head with Cinderella after fighting all of them.
+
+So Behemoth is powerful enough that she can go toe-to-toe with holding back Cinderella, (Who's supposed to be far stronger and faster than Super Saiyan Rapi) but she wasn't able to kill ANYONE? Despite the absurd speed and strength gap? Remember that Indivilla moved so quickly, while not trying no less, she was able to cut Anis and Neon in half before they could react. She was a blur, and that's when she wasn't even trying. Super Saiyan Rapi is faster than that, and Behemoth is far more dangerous than even Super Saiyan Rapi. So a character who's so fast (Behemoth) she blitzes a character (Rapi) who blitzes a character (Indivilla)who blitzes normal Nikkes and the main character... isn't able to destroy anyone before Cinderella reawakens?
+
+And what happened to brains not being able to last long outside of those special containers? Shouldn't Vesti be dead just because they had no storage containers, and no way to get her back to base in minutes? Eunwha is up in the air, because Hammering took a while to be corrupted, but that was in her arm. Eunwha gets multiple, including through the chest, so she should've probably had some crystals in her head by the time she's sniping Behemoth, but I'll say that's up in the air. Emma gets hit with crystals too, but she would've been in the early onset phase, so her survival is fine.
+
+6. When Leviathan first shows up, Behemoth shows up right there with her... and then the two get humiliated by basically Grave alone. Cinderella is only able to reclaim her weapons because Behemoth is too busy arguing with Leviathan to pay attention.
+
+  
+A sin for Leviathan not killing the main character here is necessary. The ENTIRE reason why Leviathan is here is because she's sick and tired of Behemoth being lonely, and allowing her loneliness to get in the way of their plans. She's literally here because she refuses to let Behemoth's need for new company get in the way of their plans, and that's why she entered the Crystal Region.
+
+But if that's true, why does she listen to Behemoth when she says to kidnap the main character so they could talk to him? During that very conversation, she says she wanted to kill him, but Behemoth stopped her so they could talk to him.
+
+But then Leviathan learns that the main character is dangerous, and NOW she REALLY want him dead... so she tells Behemoth to do it, knowing that Behemoth will refuse because of her obsession with new company.
+
+Leviathan was completely comfortable killing the main character PERSONALLY until Behemoth wanted to talk, but now that Leviathan really wants him dead... she pushes the job off onto someone she knows won't want to do it? What is this writing?
+
+7. After the stupid talk between Behemoth, Leviathan, and the main character, backup arrives in the form of Cinderella, followed by the rest later. Cinderella attacks Leviathan, sending her far away from Behemoth and the main character, but then the main character teleports over to Leviathan, threatening Behemoth not to attack Cinderella or Leviathan gets his blood.
+
+Behemoth then believes him, despite the fact that she knows she's infinitely faster than he is, and could destroy him in less than a heartbeat. The point was that Cinderella couldn't attack because she was recharging, and the others weren't there yet, so Behemoth easily could have killed the main character and then attacked Cinderella, but she stops, despite the fact that she knows she has complete power in this situation. Behemoth launching off the building happened earlier that day, as the main character was only out for three hours, and when he woke up, they received information from the government almost immediately afterwards and set off. This means Behemoth watched the main character punch her in slow motion in Fight 5, and completely blitzed everyone with her building lunge in Fight 3, but she actually thought he was faster than her. For some reason.
+
+8. After the black wave, which only knocks the main character out somehow, despite being a 40 foot tall wave or liquid metal or whatever, Behemoth and Leviathan acknowledge they completely forgot to check if he was even alive, somehow. Leviathan says that they're going to keep him alive, because they need to see if everything he said earlier was true.
+
+What?
+
+So they needed him alive, so Leviathan could absorb information from the Nikkes in the Black Bubbles? Even though that has nothing to do with him? I'm pretty sure they even know that Counters is his squad, so they definitely don't need him, because they would have seen everything he's seen. Even if they weren't with him all the time, they still didn't need him alive, because he doesn't serve a purpose anymore. It doesn't even matter if he's telling the truth or not, because the information they were interested in was whether or not he actually was familiar with, and had defeated Heretics. They know how strong Super Saiyan Rapi is, or at least Behemoth does, so she should know that he's telling the truth, because she also fought Liberalio, Nihilister, and Indivilla. She knows how strong all of them are, and subsequently knows that Super Saiyan Rapi could defeat Nihilister, Indivilla, and Chatterbox at the same time.
+
+9. Cinderella breaks out of the Black Bubble and annihilates Behemoth and Leviathan. Fine. Then Leviathan separates Grave and Cinderella, and Behemoth traps the main character in crystal before ragdolling the Counters. She's still not killing them, for some reason, and then Absolute attacks her and she flees.
+
+ Behemoth then regroups with Leviathan, and the two lick their wounds. But why are Behemoth and Leviathan so interested in fighting now? "We always ran away because it was the smart thing to do. So now that we know that we're entirely outmatched and can't win against Grave and Cinderella, let's fight against Grave and Cinderella."
+
+The plan was to separate Grave and Cinderella from the rest, but Cinderella just destroyed them, and neither Behemoth or Leviathan know whether or not Cinderella can do that again. In fact, they should have every reason to believe that she should. So the two pick a fight with characters who they know could destroy them instantly, even though their pragmatism is responsible for them running away from the fights they couldn't win before, like against Nihilister, Indivilla, and Liberalio.
+
+10. Finally, the main character, Counters, and Absolute fight against Behemoth while Leviathan faces off against Grave and Cinderella alone. Why didn't Leviathan just make a massive bubble, trapping the main character, Counters, and Absolute inside, killing them while Behemoth stalls against Cinderella and Grave? I don't know. Why didn't Leviathan use the Ocean of Black to separate Grave and Cinderella, forcefully tunneling them to another location, and then reconvening with Behemoth to annihilate the main character, Counters, and Absolute? I don't know.
+
+Regardless, Behemoth unironically activates Ultra Instinct, because that's how she fights best, and then fights against everyone with efficiency, winning despite being outnumbered. She then proceeds to throw Neon and Anis into a wall, before inexplicably taking her time with the main character, despite knowing she's still surrounded by able threats.
+
+Imagine if you had the ability to kill the king while surrounded by dangerous knights, and then you decide to completely leave your back open so you could slooooooowly kill the guy. She was flailing incessantly before this, and eliminates Anis and Neon instantly, but then she only shows down for the main character? Why?
+
+11. I admit it, I'm being powergated and haven't finished Chapter 34 yet. But I know that Behemoth loses, even after transforming, and Leviathan somehow ends up fleeing with her core. What I do know is that after all of this, Behemoth somehow doesn't manage to kill anyone, despite fighting them so many times. Does this make her a jobber? Or just a victim of disgusting amounts of plot armor?
+
+  
+
+
+
+
+Side note.
+
+The entire Crystal Region makes no sense because of Leviathan and Behemoth's backstory. Leviathan and Behemoth hate the other Heretics (Indivilla, Nihilister, Liberalio (They know Chatterbox, but they don't mention him as one of the ones that drove them off)) because they all bullied them and tried to kill them, forcing Leviathan and Behemoth to flee. But Behemoth alone is so strong that she mollywhops Super Saiyan Rapi every time they fight.
+
+But Super Saiyan Rapi curbstomped Nihilister, Indivilla, and Chatterbox at the same time, and only didn't kill them because of her time limit. So if Rapi is much weaker than Behemoth, then how did both Leviathan and Behemoth lose against the three Heretics?
+
+Behemoth should've been able to destroy Nihilister and Indivilla by herself, and then she and Leviathan team up against Liberalio. But they somehow completely lost and fled because they were too weak? How were they too weak to defeat enemies weaker than an enemy they're far stronger than?
+
+People could argue that Liberalio was much stronger, but if that were the case, Behemoth and Leviathan would have said that. "Nihilster and Indivilla weren't the problem. Liberalio, she's the real monster..." 
+
+But they never do that! So they just lost to enemies they're far stronger than? What sense does that make? The Crystal Region only exists BECAUSE they were forced to flee!
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:57:35 : /locate not sending me to a structure at all : bean_girl54 : https://www.reddit.com/r/MinecraftCommands/comments/1iw8k41/locate_not_sending_me_to_a_structure_at_all/
+
+I tried to locate a mineshaft and it gave me the cords but the mineshaft was nowhere to be found from bedrock to the surface at those cords. How would this even happen?
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:57:35 : A Evolução da Pintura Digital: Explore a Transformação da Arte no Século XXI! : caricaturaedesenho : https://www.reddit.com/r/meudesenho/comments/1iw8k3w/a_evolução_da_pintura_digital_explore_a/
+
+ A Evolução da Pintura Digital: Explore a Transformação da Arte no Século XXI!
+
+Olá, comunidade!
+
+Nos últimos anos, a pintura digital passou por uma revolução incrível, e não é apenas sobre a tecnologia, mas também sobre a evolução da criatividade e das técnicas artísticas. Se você é um amante da arte, artista em ascensão ou simplesmente curioso sobre como a digitalização está moldando o futuro da ilustração, você precisa conferir o meu recente artigo!
+
+No post, discuto a trajetória da pintura digital, desde os primeiros passos até a integração da Inteligência Artificial nas práticas artísticas de hoje. Além disso, abordo como essa evolução impactou a forma como vemos e criamos arte.
+
+🌟 **O que você pode esperar ao ler?**
+
+* A história e o desenvolvimento da pintura digital
+* Como a tecnologia influenciou a técnicas artísticas
+* Exemplos de como artistas estão usando IA para aprimorar suas obras
+* Reflexões sobre o futuro da arte digital
+
+Se você está curioso para saber mais sobre esses tópicos fascinantes e como eles impactam tanto os artistas quanto os apreciadores da arte, não deixe de ler! Clique aqui para se aventurar na fascinante evolução da pintura digital: [A Evolução da Pintura Digital](https://www.caricaturaedesenho.com.br/a-evolucao-da-pintura-digital/)
+
+Estou ansioso para ouvir suas opiniões e discutir as novas possibilidades que a tecnologia traz para o mundo da arte. Vamos conversar!
+
+🔗 [Conheça mais no meu blog!](https://www.caricaturaedesenho.com.br/a-evolucao-da-pintura-digital/)
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:57:40 : Whe you apply Private Perms to CAT there should be a choice to apply to ALL channels : virtualburn : https://www.reddit.com/r/discordapp/comments/1iw8k5u/whe_you_apply_private_perms_to_cat_there_should/
+
+The fact this doesn't exist is actually disturbing.  I just did a long required audit of our dicord and set reaction roles to over 40 categories, each has a minimum of 4 channels... I had to create a lot of new roles and apply to these CAT's and to find this doesn't propogate down - even by choice - is beyond annoying.
+
+I now have to right click and edit EVERY channel that has a CAT that went through a change is utterly ridiculous.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:57:36 : [++Here's How To Watch] ICC Champions Trophy 2025 Live Streams On Tv ReddiT at Home : indiapakmatch_ : https://www.reddit.com/r/scots/comments/1iw8k4d/heres_how_to_watch_icc_champions_trophy_2025_live/
+
+Livestream India vs Pakistan in Dubai. If you want to stream UCL games live in Canada, you'll need to subscribe to DAZN Canada.++Here's How To Watch India vs Pakistan Live Streams ReddiT at Home? The India vs Pakistan cricket will be played today, the first of the 2025 India vs Pakistan . Keep reading to find out how and when to watch the India vs Pakistan game today, even if you don't have cable. The India vs Pakistan Soccer will be played on September 16, 2025. The India vs Pakistan Soccer will air on UEFA Champions League Network, and stream on Sling TV and the platforms featured below.
+
+Here's How Can i find India vs Pakistan free streams options I've been wanting to watch more games lately, but most online links I've found either skip frequently or are lower quality. But lately I have gotten really into India vs Pakistan and cricket i found a great way to watch India vs Pakistan live for free recommend.
+
+I know some subscriptions don’t show certain games i got paramount and i couldn’t watch any of the ICC Champions Trophy Streams. I’m located in michigan (detroit area)., basically i really don’t wanna pay for cable just for the India vs Pakistan cricket - UEFA Champions League Season 2025. Stream live ICC Champions Trophy games on Streameast, the world's top sports streaming site. Witness every touchdown and tackle anytime, anywhere.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+2025-02-23 11:57:44 : HERE’S!!* WAY TO WATCH ICC Champions Trophy 2025 LIVE STREAMS Cricket ON TV CHANNEL : indiapakmatch_ : https://www.reddit.com/r/scots/comments/1iw8k75/heres_way_to_watch_icc_champions_trophy_2025_live/
+
+Livestream India vs Pakistan in Dubai. If you want to stream UCL games live in Canada, you'll need to subscribe to DAZN Canada.++Here's How To Watch India vs Pakistan Live Streams ReddiT at Home? The India vs Pakistan cricket will be played today, the first of the 2025 India vs Pakistan . Keep reading to find out how and when to watch the India vs Pakistan game today, even if you don't have cable. The India vs Pakistan Soccer will be played on September 16, 2025. The India vs Pakistan Soccer will air on UEFA Champions League Network, and stream on Sling TV and the platforms featured below.
+
+
+
+Here's How Can i find India vs Pakistan free streams options I've been wanting to watch more games lately, but most online links I've found either skip frequently or are lower quality. But lately I have gotten really into India vs Pakistan and cricket i found a great way to watch India vs Pakistan live for free recommend.
+
+
+
+I know some subscriptions don’t show certain games i got paramount and i couldn’t watch any of the ICC Champions Trophy Streams. I’m located in michigan (detroit area)., basically i really don’t wanna pay for cable just for the India vs Pakistan cricket - UEFA Champions League Season 2025. Stream live ICC Champions Trophy games on Streameast, the world's top sports streaming site. Witness every touchdown and tackle anytime, anywhere.
+
+
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *

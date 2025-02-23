@@ -1,6 +1,7 @@
 Class dc.Demo.Setup
 {
-    ClassMethod Init(TokenValue As %String) As %Status
+
+ClassMethod Init(TokenValue As %String) As %Status
 {
     set st=$$$OK
     set production="dc.Demo.Production"
@@ -16,4 +17,5 @@ ClassMethod StartProduction()
     do ##class(%EnsembleMgr).SetAutoStart($namespace, prodClass)
     job ##class(Ens.Director).StartProduction(prodClass)
 }
+
 }

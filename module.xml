@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Export generator="Cache" version="25">
-  <Document name="interoperability-sample.ZPM">
+  <Document name="rabbit-iris-sample.ZPM">
     <Module>
-      <Name>interoperability-sample</Name>
-      <Description>A simple IRIS interoperability application - reads data from Reddit and filter it.</Description>
-      <Version>0.3.4</Version>
+      <Name>rabbit-iris-sample</Name>
+      <Description>A simple IRIS interoperability application to show how to use RabbitMQ with IRIS.</Description>
+      <Version>1.0.0</Version>
       <Packaging>module</Packaging>
       <Dependencies>
         <ModuleReference>
@@ -23,7 +23,7 @@
       <SourcesRoot>src</SourcesRoot>
       <Resource Name="Ens.Config.DefaultSettings.ESD"/>
       <Resource Directory="i14y" Name="TestLookupTable.LUT"/>
-      <Resource Name="dc.Reddit.PKG"/>
+      <Resource Name="dc.rabbit.PKG"/>
       <Resource Name="dc.Demo.PKG"/>
       <SystemRequirements Version=">=2020.1" Interoperability="enabled" />
       <Default Name="SampleToken" Value="40" />
