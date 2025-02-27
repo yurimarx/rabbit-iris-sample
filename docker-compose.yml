@@ -1,7 +1,5 @@
 services:
   iris:
-    environment:
-      - SAMPLE_TOKEN=${SAMPLE_TOKEN}
     build:
       context: .
       dockerfile: Dockerfile

@@ -21,16 +21,9 @@
         </ModuleReference>
       </Dependencies>
       <SourcesRoot>src</SourcesRoot>
-      <Resource Name="Ens.Config.DefaultSettings.ESD"/>
-      <Resource Directory="i14y" Name="TestLookupTable.LUT"/>
       <Resource Name="dc.rabbit.PKG"/>
-      <Resource Name="dc.Demo.PKG"/>
       <SystemRequirements Version=">=2020.1" Interoperability="enabled" />
-      <Default Name="SampleToken" Value="40" />
-      <Invoke Class="dc.Demo.Setup" Method="Init" >
-         <Arg>${SampleToken}</Arg>
-      </Invoke>
-      <Invoke Class="dc.Demo.Setup" Method="StartProduction" >
+      <Invoke Class="dc.rabbit.Setup" Method="StartProduction" >
       </Invoke>
     </Module>
   </Document>
