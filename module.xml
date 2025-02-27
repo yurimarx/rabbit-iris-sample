@@ -23,7 +23,7 @@
       <SourcesRoot>src</SourcesRoot>
       <Resource Name="dc.rabbit.PKG"/>
       <SystemRequirements Version=">=2020.1" Interoperability="enabled" />
-      <Invoke Class="dc.rabbit.Setup" Method="StartProduction" >
+      <Invoke Class="dc.rabbit.Setup" Method="CreateRabbitCreds" >
       </Invoke>
     </Module>
   </Document>

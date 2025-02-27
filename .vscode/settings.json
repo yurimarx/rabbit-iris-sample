@@ -12,7 +12,7 @@
         "service": "iris",
         "internalPort": 52773
       },
-      "active": false,
+      "active": true,
       "links": {
         "Production": "http://localhost:${port}/csp/user/EnsPortal.ProductionConfig.zen?PRODUCTION=dc.rabbit.RabbitProduction"
       }
